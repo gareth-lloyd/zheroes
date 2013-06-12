@@ -1,12 +1,5 @@
-install postgres
-Import all the postcodes
-Set up the models
-Import all the things
-
 Food cost:
-Free
-Low cost
-Free and low cost
+Free, Low cost, Free and low cost
 
 Organisation type:
 Counter({'food bank': 52, 'Church/Christian organistaion': 48, 'Day centre/drop in': 25, 'Food distribution': 24, 'Hostel/shelter': 11, 'Children and young peoples organistion': 10, 'Surplus food organistion': 6, 'Restaurant/cafe': 4, 'Other': 4, 'Homeless organistion': 4, 'Social improvement organisation': 2, 'Social club': 2, 'Government initiative': 1, 'Religious organisation': 1, 'Theatre company': 1, 'Mosque': 1, 'community': 1, 'food enterprise': 1})
