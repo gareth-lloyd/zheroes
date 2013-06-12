@@ -1,4 +1,5 @@
 from django.contrib.gis.db import models
+from django.contrib.gis.measure import Distance
 
 FOOD_COSTS = (
     ('f', 'Free'),
@@ -92,4 +93,11 @@ class FoodProvider(models.Model):
     email = models.CharField(max_length=256, blank=True, null=True)
     website = models.CharField(max_length=256, blank=True, null=True)
     telephone = models.CharField(max_length=256, blank=True, null=True)
+
+    @staticmethod
+    def near_post_code(post_code, km=1):
+        d = Distance(km=km)
+        post_codes = PostCode.objects.filter(location__distance_lte=(post_code.location, d))
+        fps = FoodProvider.objects.filter(post_code__in=list(post_codes))
+        return fps
 
