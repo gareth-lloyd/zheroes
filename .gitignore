@@ -3,7 +3,7 @@
 *.css.swp
 *.html.swp
 *.js.swp
-shelter_survey/local_settings.py
+zheroes/zheroes/local_settings.py
 .project
 
 .pydevproject
