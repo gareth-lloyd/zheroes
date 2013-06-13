@@ -122,6 +122,9 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'django.contrib.admin',
     'foodproviders',
+    'smslink',
+    'south',
+    'django.contrib.gis',
 )
 
 # A sample logging configuration. The only tangible logging
