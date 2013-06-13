@@ -66,7 +66,7 @@ class Command(BaseCommand):
                             means_of_entry=d[PATH],
                             eligibility=d[EL],
                             address=d[LOC],
-                            post_code=post_code,
+                            location=post_code.location if post_code else None,
                             email=email,
                             website=website,
                             telephone=d[TEL]

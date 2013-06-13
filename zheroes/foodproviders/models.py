@@ -89,15 +89,14 @@ class FoodProvider(models.Model):
     requirements = models.ManyToManyField(EntryRequirement)
 
     address = models.CharField(max_length=256)
-    post_code = models.ForeignKey(PostCode, blank=True, null=True)
+    location = models.PointField(blank=True, null=True)
     email = models.CharField(max_length=256, blank=True, null=True)
     website = models.CharField(max_length=256, blank=True, null=True)
     telephone = models.CharField(max_length=256, blank=True, null=True)
 
+    objects = models.GeoManager()
+
     @staticmethod
-    def near_post_code(post_code, km=1):
-        d = Distance(km=km)
-        post_codes = PostCode.objects.filter(location__distance_lte=(post_code.location, d))
-        fps = FoodProvider.objects.filter(post_code__in=list(post_codes))
-        return fps
+    def nearest_x(post_code, x):
+        return FoodProvider.objects.all().distance(post_code.location).order_by('distance')[:x]
 
