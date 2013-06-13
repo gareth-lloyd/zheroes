@@ -58,7 +58,7 @@ ENTRY_REQS = (
 )
 
 class PostCode(models.Model):
-    outward = models.CharField(max_length=5)
+    outward = models.CharField(max_length=5, db_index=True)
     inward = models.CharField(max_length=5)
 
     location = models.PointField(blank=True, null=True)
