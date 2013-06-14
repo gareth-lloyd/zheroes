@@ -37,7 +37,6 @@ class Command(BaseCommand):
     def handle(self, *args, **kwargs):
         try:
             FoodProvider.objects.all().delete()
-            EntryRequirement.objects.all().delete()
 
             ORG_TYPE_LOOKUP = _lookup_table(ORG_TYPES)
             FOOD_COST_LOOKUP = _lookup_table(FOOD_COSTS)

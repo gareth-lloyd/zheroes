@@ -40,21 +40,21 @@ FOOD_TYPES = (
 )
 
 ENTRY_REQS = (
-    ('m','Mental health'),
-    ('f','Families'),
-    ('o','Over 25'),
-    ('a','Fixed address'),
-    ('x','Ex service men'),
-    ('u','Under 25'),
-    ('e','Ethnic identity'),
-    ('O','Over 60'),
-    ('r','Right to work in UK'),
-    ('R','Refugees, asylum seekers, migrants'),
-    ('h','Homeless'),
-    ('i','In receipt of a benefit'),
-    ('v','Over 16'),
-    ('l','Live in area'),
-    ('w','Women'),
+    ('Mental health','Mental health'),
+    ('Families','Families'),
+    ('Over 25','Over 25'),
+    ('Fixed address','Fixed address'),
+    ('Ex service men','Ex service men'),
+    ('Under 25','Under 25'),
+    ('Ethnic identity','Ethnic identity'),
+    ('Over 60','Over 60'),
+    ('Right to work in UK','Right to work in UK'),
+    ('Refugess, asylum seekers, migrants','Refugees, asylum seekers, migrants'),
+    ('Homeless','Homeless'),
+    ('In receipt of a benefit','In receipt of a benefit'),
+    ('Over 16','Over 16'),
+    ('Live in area','Live in area'),
+    ('Women','Women'),
 )
 
 class PostCode(models.Model):
@@ -72,8 +72,10 @@ class PostCode(models.Model):
         return u"{out} {in_}".format(out=self.outward, in_=self.inward)
 
 class EntryRequirement(models.Model):
-    requirement = models.CharField(max_length=2, choices=ENTRY_REQS,
+    requirement = models.CharField(max_length=64, choices=ENTRY_REQS,
             unique=True)
+    def __unicode__(self):
+        return self.requirement
 
 class FoodProvider(models.Model):
     zheroes_id = models.IntegerField()
@@ -99,4 +101,7 @@ class FoodProvider(models.Model):
     @staticmethod
     def nearest_x(post_code, x):
         return FoodProvider.objects.all().distance(post_code.location).order_by('distance')[:x]
+
+    def __unicode__(self):
+        return self.name
 
