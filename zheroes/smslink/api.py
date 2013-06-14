@@ -5,6 +5,7 @@ from django.conf import settings
 from django.template import Context, loader
 
 from foodproviders.models import FoodProvider, PostCode, EntryRequirement
+from foodproviders.api import age_to_entry_requirements
 from smslink.models import PhoneUser, SMS
 
 SMS_MAX_LEN = 160
@@ -115,18 +116,7 @@ class AgeSubmittedRoute(Route):
 
     def _run(self):
         age = int(self.text)
-        if age > 16:
-            self.phone_user.requirements_satisfied.add(
-                EntryRequirement.objects.get(requirement="Over 16"))
-        if age < 25:
-            self.phone_user.requirements_satisfied.add(
-                EntryRequirement.objects.get(requirement="Under 25"))
-        if age > 25:
-            self.phone_user.requirements_satisfied.add(
-                EntryRequirement.objects.get(requirement="Over 25"))
-        if age > 60:
-            self.phone_user.requirements_satisfied.add(
-                EntryRequirement.objects.get(requirement="Over 60"))
+        self.phone_user.requirements_satisfied.add(age_to_entry_requirements(age))
         send_sms(self.phone_user, self.NEXT_STEP_PROMPT)
 
 

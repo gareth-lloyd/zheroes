@@ -1,5 +1,5 @@
 from django.contrib.gis.db import models
-from django.contrib.gis.measure import Distance
+from django.template import Context, loader
 
 FOOD_COSTS = (
     ('f', 'Free'),
@@ -101,6 +101,11 @@ class FoodProvider(models.Model):
     @staticmethod
     def nearest_x(post_code, x):
         return FoodProvider.objects.all().distance(post_code.location).order_by('distance')[:x]
+
+    def description_as_html(self):
+        t = loader.get_template('foodproviders/food_provider_description.html')
+        c = Context({'fp': self})
+        return t.render(c)
 
     def __unicode__(self):
         return self.name

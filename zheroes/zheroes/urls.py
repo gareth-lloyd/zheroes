@@ -4,7 +4,8 @@ from django.contrib import admin
 admin.autodiscover()
 
 urlpatterns = patterns('',
-    url(r'^sms/', include('smslink.urls')),
+    url(r'^', include('smslink.urls')),
+    url(r'^', include('foodproviders.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
 )
