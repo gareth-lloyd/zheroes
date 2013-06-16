@@ -23,8 +23,7 @@
         #filterform {
             padding: 10px;
             position: absolute;
-            width: 220px;
-            height: 300;
+            width: 320px;
             right: 20px;
             top: 40px;
             -moz-border-radius: 5px;
@@ -98,11 +97,28 @@
   <body>
     <div id="map-canvas"></div>
     <div id="filterform">
+        <h1>Free food by text message</h1>
+
+    <h3>
+        Text HUNGRY to 01290 211 520, and write any post code.
+    </h3>
+    <p>
+    For example, text HUNGRY E9 6ND, and we will send you three ways
+    ways to get access to free or low cost food in Hackney. Try it
+    for your post code!
+    </p>
+    <p>
+    You can also sign up for regular updates: just follow the instructions via SMS.
+    </p>
+
+        <h3>Explore the available options on this map:</h3>
         <form action="" method="post">
             {% csrf_token %}
             {{ form.as_p }}
             <input type="submit" />
         </form>
+
+        More information at <a href="http://www.planzheroes.org">planzheroes.org</a>
     </div>
   </body>
 </html>
