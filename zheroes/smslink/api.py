@@ -33,10 +33,6 @@ def _do_send_sms(phone_user, text):
     return client.sms.messages.create(body=text, to=phone_user.number,
             from_=settings.SMS_NUMBER)
 
-def _do_send_sms(phone_user, text):
-    print phone_user.number, text
-    print
-
 
 class Route(object):
     def __init__(self, phone_user, text):
@@ -116,7 +112,8 @@ class AgeSubmittedRoute(Route):
 
     def _run(self):
         age = int(self.text)
-        self.phone_user.requirements_satisfied.add(age_to_entry_requirements(age))
+        for req in age_to_entry_requirements(age):
+            self.phone_user.requirements_satisfied.add(req)
         send_sms(self.phone_user, self.NEXT_STEP_PROMPT)
 
 

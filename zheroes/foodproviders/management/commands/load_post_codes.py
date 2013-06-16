@@ -1,3 +1,4 @@
+import gc
 from django.core.management.base import BaseCommand
 from django.contrib.gis.geos import Point
 
@@ -20,6 +21,7 @@ class Command(BaseCommand):
 
     def handle(self, *args, **options):
         for lump in paged_iterator(post_code_data_generator("../data"), 500):
+            gc.collect()
             post_codes = []
             for d in lump:
                 post_code = d['Postcode']

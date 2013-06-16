@@ -5,6 +5,7 @@ from smslink import api
 
 @csrf_exempt
 def sms_received(request):
+    print 'sms received'
     if request.method == 'POST':
         number = request.POST['From']
         text = request.POST['Body']

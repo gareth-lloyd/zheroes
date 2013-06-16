@@ -18,3 +18,4 @@ backups/*
 build/*
 data/*
 zheroes/foodproviders/fixtures/*
+*.swo

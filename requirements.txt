@@ -1,0 +1,7 @@
+django
+ipython
+psycopg2
+https://github.com/gareth-lloyd/postcode_latlng/archive/master.zip
+twilio
+gunicorn
+south
