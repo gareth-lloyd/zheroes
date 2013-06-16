@@ -10,11 +10,28 @@
             font-size: 12px;
             font-family: sans-serif;
         }
-        #map-canvas {
+        html, body {
+            height: 100%;
             margin: 0px;
             padding: 0px;
+        }
+        #map-canvas {
+            position: relative;
             width: 100%;
-            height: 500px;
+            height: 100%;
+        }
+        #filterform {
+            padding: 10px;
+            position: absolute;
+            width: 220px;
+            height: 300;
+            right: 20px;
+            top: 40px;
+            -moz-border-radius: 5px;
+            border-radius: 5px;
+            background: #eee;
+            z-index: 99;
+            box-shadow:inset 0 0 10px #000000;
         }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyB7WNC2hD9IC6erMxwmBPMheit4qHx-WXA"></script>
@@ -80,7 +97,7 @@
   </head>
   <body>
     <div id="map-canvas"></div>
-    <div id="form">
+    <div id="filterform">
         <form action="" method="post">
             {% csrf_token %}
             {{ form.as_p }}
