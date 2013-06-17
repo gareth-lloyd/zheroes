@@ -25,6 +25,8 @@ def send_sms(phone_user, text, num=None, total=None):
         prepend = "{num}/{total}: ".format(num=num, total=total)
         if len(prepend) + len(text) <= SMS_MAX_LEN:
             text = prepend + text
+    if len(text) > SMS_MAX_LEN:
+        text = text[:SMS_MAX_LEN - 3] + '...'
 
     _do_send_sms(phone_user, text)
 
