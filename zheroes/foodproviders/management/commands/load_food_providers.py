@@ -21,6 +21,8 @@ TIME = "Time"
 EM_WB = "Email/Website"
 TEL = "Telephone number"
 
+FRONTLINE = "Referral through frontline services"
+
 def _lookup_table(choices):
     return {c[1]: c[0] for c in choices}
 
@@ -55,6 +57,9 @@ class Command(BaseCommand):
                     website = email_web if '@' not in email_web else None
 
                     zheroes_id = int(d[ID]) if d[ID] else zheroes_id
+                    path=d[PATH]
+                    referral = path.startswith(FRONTLINE)
+
                     prov = FoodProvider.objects.create(
                             zheroes_id=zheroes_id,
                             name=d[ORG],
@@ -62,7 +67,7 @@ class Command(BaseCommand):
                             food_type=FOOD_TYPE_LOOKUP[d[FOOD_TYPE]],
                             organisation_type=ORG_TYPE_LOOKUP[d[ORG_TYPE]],
                             time=d[TIME],
-                            means_of_entry=d[PATH],
+                            means_of_entry=path,
                             eligibility=d[EL],
                             address=d[LOC],
                             location=post_code.location if post_code else None,
@@ -71,11 +76,15 @@ class Command(BaseCommand):
                             telephone=d[TEL]
                     )
                     for key in UJS:
-
                         requirement = ENTRY_LOOKUP.get(d[key])
                         if requirement:
                             r, _ = EntryRequirement.objects.get_or_create(
                                     requirement=requirement)
                             prov.requirements.add(r)
+                    if referral:
+                        r, _ = EntryRequirement.objects.get_or_create(
+                                requirement="Frontline referral")
+                        prov.requirements.add(r)
+
         except Exception, e:
             print e

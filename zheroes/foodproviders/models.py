@@ -55,6 +55,7 @@ ENTRY_REQS = (
     ('Over 16','Over 16'),
     ('Live in area','Live in area'),
     ('Women','Women'),
+    ('Frontline referral','Frontline referral'),
 )
 
 class PostCode(models.Model):
@@ -74,8 +75,10 @@ class PostCode(models.Model):
 class EntryRequirement(models.Model):
     requirement = models.CharField(max_length=64, choices=ENTRY_REQS,
             unique=True)
+
     def __unicode__(self):
         return self.requirement
+
 
 class FoodProvider(models.Model):
     zheroes_id = models.IntegerField()
@@ -97,6 +100,19 @@ class FoodProvider(models.Model):
     telephone = models.CharField(max_length=256, blank=True, null=True)
 
     objects = models.GeoManager()
+
+    @staticmethod
+    def _annotated():
+        return FoodProvider.objects\
+                .annotate(num_requirements=models.Count('requirements'))
+
+    @staticmethod
+    def open_access():
+        return FoodProvider._annotated().filter(num_requirements=0)
+
+    @staticmethod
+    def restricted():
+        return FoodProvider._annotated().filter(num_requirements__gt=0)
 
     @staticmethod
     def nearest_x(post_code, x):

@@ -58,7 +58,8 @@
     {% endverbatim %}
 
     <script>
-    var foodProviders = {{ fps | jsonify | safe}};
+    var openFoodProviders = {{ open_fps | jsonify | safe}};
+    var restrictedFoodProviders = {{ restricted_fps | jsonify | safe}};
     function initializeWindows() {
       var myLatlng = new google.maps.LatLng({{ centreLat }}, {{ centreLng }});
       var mapOptions = {
@@ -69,7 +70,7 @@
 
       var map = new google.maps.Map(document.getElementById('map-canvas'), mapOptions);
 
-      $.each(foodProviders, function(i, fp) {
+      $.each(restrictedFoodProviders, function(i, fp) {
         var infowindow = new google.maps.InfoWindow({
             content: ich.organisation(fp)
         });

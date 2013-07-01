@@ -1,8 +1,7 @@
 from django.views.generic.edit import FormView
 
 from foodproviders.forms import FoodProviderCriteriaForm
-from foodproviders.models import FoodProvider, PostCode, EntryRequirement
-from foodproviders.api import age_to_entry_requirements
+from foodproviders.models import FoodProvider, PostCode
 
 class MapView(FormView):
     form_class = FoodProviderCriteriaForm
@@ -14,28 +13,6 @@ class MapView(FormView):
     def _entry_requirements_from_form(self, form):
         pass
 
-    def food_providers_from_form(self, form):
-        d = form.cleaned_data
-        age, homeless, gender = d['age'], d['homeless'], d['gender']
-        reqs = []
-        if age:
-            reqs.extend(age_to_entry_requirements(age))
-        if homeless:
-            reqs.append(EntryRequirement.objects.get(requirement="Homeless"))
-        if gender == "male":
-            reqs.append(EntryRequirement.objects.get(requirement="Men"))
-        if gender == "female":
-            reqs.append(EntryRequirement.objects.get(requirement="Women"))
-
-        final_fps = []
-        for fp in FoodProvider.objects.all().exclude(location=None):
-            for req in fp.requirements.all():
-                if req not in reqs:
-                    break
-            else:
-                final_fps.append(fp)
-        return final_fps
-
     def get_context_data(self, **kwargs):
         context = super(MapView, self).get_context_data(**kwargs)
         form = kwargs['form']
@@ -45,12 +22,12 @@ class MapView(FormView):
             context['centreLat'] = post_code.location.x
             context['centreLng'] = post_code.location.y
             context['zoom'] = 13
-            context['fps'] = self.food_providers_from_form(form)
+            context['fps'] = form.food_providers()
         else:
             context['centreLat'] = 51.5171
             context['centreLng'] = -0.1062
             context['zoom'] = 11
-            context['fps'] = FoodProvider.objects.all().exclude(location=None)
-        print len(context['fps'])
+            context['open_fps'] = FoodProvider.open_access().exclude(location=None)
+            context['restricted_fps'] = FoodProvider.restricted().exclude(location=None)
         return context
 
