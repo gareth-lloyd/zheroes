@@ -126,3 +126,25 @@ class FoodProvider(models.Model):
     def __unicode__(self):
         return self.name
 
+DOTW = (
+    ('m', 'Monday'),
+    ('t', 'Tuesday'),
+    ('w', 'Wednesday'),
+    ('T', 'Thursday'),
+    ('f', 'Friday'),
+    ('s', 'Saturday'),
+    ('S', 'Sunday'),
+)
+
+class ServingTime(models.Model):
+    day = models.CharField(max_length=1, choices=DOTW)
+    provider = models.ForeignKey(FoodProvider)
+
+    breakfast = models.BooleanField(default=False)
+    morning = models.BooleanField(default=False)
+    lunch = models.BooleanField(default=False)
+    afternoon = models.BooleanField(default=False)
+    dinner = models.BooleanField(default=False)
+
+    class Meta:
+        unique_together = ('day', 'provider')
