@@ -34,6 +34,12 @@
             z-index: 99;
             box-shadow:inset 0 0 10px #000000;
         }
+        #map img {
+            max-width: none;
+        }
+        #map label {
+            width: auto; display:inline;
+        }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyB7WNC2hD9IC6erMxwmBPMheit4qHx-WXA"></script>
     <script src="{{ STATIC_URL }}js/ICanHaz.min.js"></script>
@@ -65,25 +71,23 @@
 
     <script>
     $(document).ready(function() {
-      console.log(FoodProvider);
       var myLatlng = new google.maps.LatLng({{ centreLat }}, {{ centreLng }});
       var mapOptions = {
         zoom: {{ zoom }},
         center: myLatlng,
         mapTypeId: google.maps.MapTypeId.ROADMAP
       }
-
       var map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
       filters = new Filters();
+      filtersView = new FiltersView({el: $("#filters"), model: filters});
+
       providers = new FoodProviders([], {filters: filters});
-      providers.on('reset', function(collection) {
-        collection.each(function(provider) {
-          new FoodProviderView({model: provider, map: map});
-        });
-        console.log('reset');
+      providers.on('add', function(model) {
+          var view = new FoodProviderView({model: model, map: map});
       });
-      providers.fetch({reset: true});
+      providers.fetch();
+
     });
 
     </script>
@@ -97,6 +101,43 @@
                 Project Zheroes
             </h1>
         </div>
+    </div>
+    <div class="row" id="filters">
+
+        <div class="span3">
+            <form><fieldset>
+            Are you homeless?
+            <label class="radio">
+              <input type="radio" name="homeless" id="homeless-yes" value="yes">
+              Yes
+            </label>
+            <label class="radio">
+              <input type="radio" name="homeless" id="homeless-no" value="no">
+              No
+            </label>
+            </fieldset></form>
+        </div>
+
+        <div class="span3">
+            <form><fieldset>
+            Are you a man or a woman?
+            <label class="radio">
+             <input type="radio" name="gender" id="gender-man" value="man">
+              man
+            </label>
+            <label class="radio">
+              <input type="radio" name="gender" id="gender-woman" value="woman">
+              woman
+            </label>
+            </fieldset></form>
+        </div>
+        <div class="span3">
+              <fieldset>
+                <label>How old are you?</label>
+                <input type="text" placeholder="Type your age..." name="age" id="age"/>
+              </fieldset>
+        </div>
+
     </div>
     <div class="row">
         <div class="span12">

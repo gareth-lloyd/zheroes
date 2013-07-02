@@ -10,6 +10,7 @@ register = Library()
 
 def convert_food_provider(fp):
     return dict(
+        id=fp.id,
         name=fp.name,
         cost=fp.get_cost_display().lower(),
         food_type=fp.get_food_type_display().lower(),
