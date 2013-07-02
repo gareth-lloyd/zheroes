@@ -9,11 +9,11 @@ GENDER_CHOICES = (
         ('female', 'female')
 )
 SERVING_TIMES = (
-    ('b', 'Breakfast')
-    ('m', 'Morning')
-    ('l', 'Lunch')
-    ('a', 'Afternoon')
-    ('d', 'Dinner')
+    ('b', 'Breakfast'),
+    ('m', 'Morning'),
+    ('l', 'Lunch'),
+    ('a', 'Afternoon'),
+    ('d', 'Dinner'),
 )
 
 class FoodProviderCriteriaForm(forms.Form):
@@ -25,17 +25,18 @@ class FoodProviderCriteriaForm(forms.Form):
     serving_time = forms.ChoiceField(choices=SERVING_TIMES)
 
     def _requirements(self):
-        d = self.cleaned_data
-        age, homeless, gender = d['age'], d['homeless'], d['gender']
         reqs = []
-        if age:
-            reqs.extend(age_to_entry_requirements(age))
-        if homeless:
-            reqs.append(EntryRequirement.objects.get(requirement="Homeless"))
-        if gender == "male":
-            reqs.append(EntryRequirement.objects.get(requirement="Men"))
-        if gender == "female":
-            reqs.append(EntryRequirement.objects.get(requirement="Women"))
+        if self.is_bound and self.is_valid():
+            d = self.cleaned_data
+            age, homeless, gender = d['age'], d['homeless'], d['gender']
+            if age:
+                reqs.extend(age_to_entry_requirements(age))
+            if homeless:
+                reqs.append(EntryRequirement.objects.get(requirement="Homeless"))
+            if gender == "male":
+                reqs.append(EntryRequirement.objects.get(requirement="Men"))
+            if gender == "female":
+                reqs.append(EntryRequirement.objects.get(requirement="Women"))
         return reqs
 
     def food_providers(self):

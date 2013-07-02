@@ -1,8 +1,9 @@
-from django.views.generic.edit import FormView
+import json
+from django.views.generic import TemplateView
+from django.http import HttpResponse
 
 from foodproviders.forms import FoodProviderCriteriaForm
-from foodproviders.models import FoodProvider, PostCode
-from foodproviders.templatetags import ZheroesEncoder
+from foodproviders.templatetags.json_filters import ZheroesEncoder
 
 class MapView(TemplateView):
     template_name = 'foodproviders/map.html'
