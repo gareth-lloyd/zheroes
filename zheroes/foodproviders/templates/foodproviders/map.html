@@ -8,17 +8,7 @@
     <link href="{{ STATIC_URL }}css/bootstrap.css" rel="stylesheet">
     </link>
     <style>
-        body {
-            font-size: 12px;
-            font-family: sans-serif;
-        }
-        html, body {
-            height: 100%;
-            margin: 0px;
-            padding: 0px;
-        }
         #map {
-            position: relative;
             width: 100%;
             height: 500px;
         }
@@ -27,6 +17,9 @@
         }
         #map label {
             width: auto; display:inline;
+        }
+        .gap-above {
+            margin-top: 1em;
         }
     </style>
     <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&sensor=false&key=AIzaSyB7WNC2hD9IC6erMxwmBPMheit4qHx-WXA"></script>
@@ -68,31 +61,6 @@
     <script>
     $(document).ready(function() {
       var myLatlng = new google.maps.LatLng({{ centreLat }}, {{ centreLng }});
-      var mapStyle = [
-              {
-                "featureType": "poi",
-                "stylers": [
-                  { "visibility": "off" }
-                ]
-              },{
-                "featureType": "landscape",
-                "stylers": [
-                  { "color": "#ffffff" },
-                  { "visibility": "on" }
-                ]
-              },{
-                "featureType": "transit",
-                "stylers": [
-                  { "visibility": "off" }
-                ]
-              },{
-                "featureType": "road",
-                "stylers": [
-                  { "weight": 1 },
-                  { "visibility": "on" }
-                ]
-              }
-            ];
       var mapOptions = {
         zoom: {{ zoom }},
         center: myLatlng,
@@ -100,32 +68,33 @@
       }
       var map = new google.maps.Map(document.getElementById('map'), mapOptions);
 
-      filters = new Filters();
-      filtersView = new FiltersView({el: $("#filters"), model: filters});
+      var filters = new Filters();
+      var f = new FiltersView({el: $("#filters"), model: filters});
 
-      providers = new FoodProviders([], {filters: filters});
+      var providers = new FoodProviders([], {filters: filters});
       providers.on('add', function(model) {
-          var view = new FoodProviderView({model: model, map: map, filters: filters});
+          new FoodProviderView({model: model, map: map, filters: filters});
       });
       providers.fetch();
-
     });
-
     </script>
 </head>
 <body>
 
 <div class="container">
-    <div class="row">
-        <div class="span12">
-            <h1 class="page-header">
-                Project Zheroes
-            </h1>
+    <div class="row gap-above">
+        <div class="span2">
+            <img src="{{ STATIC_URL }}img/logo.png" />
+        </div>
+        <div class="span10">
+            <p class="lead text-info">
+            We believe no-one should go hungry. Use this tool to find sources of food in London.
+            Use the filter controls below to narrow your search.
+            </p>
         </div>
     </div>
+    <br />
     <div class="row" id="filters">
-
-
         <div class="span3">
           <label>What time is best for you?</label>
           <select class="input-block-level" id="timeSelector">
@@ -137,6 +106,7 @@
             <option value="dinner">Dinner time</option>
           </select>
         </div>
+
         <div class="span3">
           <label>What day is best for you?</label>
           <select class="input-block-level" id="daySelector">
@@ -181,16 +151,11 @@
     </div>
     <div class="row">
         <div class="span12">
-            <div id="map">
-        </div>
-    </div>
-    <div class="row">
-        <div class="span12">
-            <br />
+            <div id="map"></div>
         </div>
     </div>
 
-    <div class="row">
+    <div class="row gap-above">
             <div class="span3">
                 <br />
             </div>
@@ -206,6 +171,21 @@
                 <img src="{{ STATIC_URL }}img/marker_red.png" />
                 Some restrictions.
             </div>
+    </div>
+    <div class="row gap-above">
+        <div class="span12">
+            <p>The UK food retail industry sends 1.6million tonnes of surplus
+            food to landfill every year, which contributes to the increase in
+            greenhouse gases. At the same time there are 4 million people in
+            the UK who are living below the breadline. It does not have to be
+            this way. We want to inspire businesses to stop sending surplus
+            food to landfill and donate it to local charities instead. </p>
+
+            <p> For more information go to <a href="http://www.planzheroes.org/">
+                Plan Zheroes.</a> By using the Plan Zheroes map you agree to our
+            <a href="http://www.planzheroes.org/terms/">Terms and Conditions</a>.
+            </p>
+        </div>
     </div>
 </div>
 

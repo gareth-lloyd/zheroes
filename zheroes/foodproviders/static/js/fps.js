@@ -73,7 +73,7 @@ var FoodProviderView = Backbone.View.extend({
   initialize: function () {
     this.model = this.options.model;
     var map = this.options.map;
-    var filters = this.options.filters;
+    this.filters = this.options.filters;
 
     this.infowindow = new google.maps.InfoWindow({
         content: ich.organisation(this.model.toJSON())
@@ -98,7 +98,7 @@ var FoodProviderView = Backbone.View.extend({
         this.infowindow.close();
     }.bind(this));
 
-    filters.on('change', this.refreshMarker, this);
+    this.filters.on('change', this.refreshMarker, this);
     this.model.on('remove', this.remove, this);
     this.model.on('destroy', this.destroy, this);
   },
@@ -106,7 +106,7 @@ var FoodProviderView = Backbone.View.extend({
   getIcon: function() {
     if (this.model.get('referral_required')) {
       return MAP_UTIL.orange;
-    } else if (filters.hasAdditionalRequirements(this.model)) {
+    } else if (this.filters.hasAdditionalRequirements(this.model)) {
       return MAP_UTIL.red;
     } else {
       return MAP_UTIL.green;
