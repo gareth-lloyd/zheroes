@@ -17,6 +17,7 @@ def convert_food_provider(fp):
         organisation_type=fp.get_organisation_type_display().lower(),
         time=fp.time,
         requirements=list(fp.requirements.all()),
+        referral_required=fp.referral_required,
         address=fp.address,
         location=fp.location,
         email=fp.email,
@@ -32,7 +33,7 @@ class ZheroesEncoder(json.DjangoJSONEncoder):
         elif isinstance(o, FoodProvider):
             return convert_food_provider(o)
         elif isinstance(o, EntryRequirement):
-            return dict(requirement=o.requirement)
+            return o.requirement
         elif isinstance(o, Point):
             return dict(x=o.x, y=o.y)
         else:

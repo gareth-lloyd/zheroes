@@ -34,10 +34,14 @@ FOOD_TYPES = (
     ('s', 'Soup/Sandwiches'),
     ('m', 'Mixed cooked and cold food'),
     ('t', 'Tea run'),
-    ('m', 'Cooked meal and food parcel'),
+    ('M', 'Cooked meal and food parcel'),
     ('p', 'Cooked meal parcel'),
     ('f', 'Milk, fruit and vegetable'),
 )
+FOOD_TYPE_GROUPS = {
+    'parcel': ['n', 'M', 'p', 'f'],
+    'meal': ['c', 's', 'm', 'M', 'p']
+}
 
 ENTRY_REQS = (
     ('Mental health','Mental health'),
@@ -55,7 +59,6 @@ ENTRY_REQS = (
     ('Over 16','Over 16'),
     ('Live in area','Live in area'),
     ('Women','Women'),
-    ('Frontline referral','Frontline referral'),
 )
 
 class PostCode(models.Model):
@@ -92,6 +95,7 @@ class FoodProvider(models.Model):
     means_of_entry = models.CharField(max_length=512, blank=True, null=True)
     eligibility = models.CharField(max_length=512, blank=True, null=True)
     requirements = models.ManyToManyField(EntryRequirement)
+    referral_required = models.BooleanField(default=False)
 
     address = models.CharField(max_length=256)
     location = models.PointField(blank=True, null=True)
@@ -140,11 +144,16 @@ class ServingTime(models.Model):
     day = models.CharField(max_length=1, choices=DOTW)
     provider = models.ForeignKey(FoodProvider)
 
-    breakfast = models.BooleanField(default=False)
-    morning = models.BooleanField(default=False)
-    lunch = models.BooleanField(default=False)
-    afternoon = models.BooleanField(default=False)
-    dinner = models.BooleanField(default=False)
+    breakfast = models.BooleanField(default=False,
+            help_text="early morning 'til 9am")
+    morning = models.BooleanField(default=False,
+            help_text="9am 'til 12 noon")
+    lunch = models.BooleanField(default=False,
+            help_text="12 noon 'til 2pm")
+    afternoon = models.BooleanField(default=False,
+            help_text="2pm 'til 5pm")
+    dinner = models.BooleanField(default=False,
+            help_text="5pm onwards")
 
     class Meta:
         unique_together = ('day', 'provider')

@@ -48,8 +48,9 @@ def serving_time(query_dict):
 def filter_fps(request):
     unsatisfied = unsatisfied_requirements(request.GET)
     day, time = serving_time(request.GET)
+    food_type = request.GET.get('food')
 
-    fps = filter_food_providers(unsatisfied, day=day, time=time)
+    fps = filter_food_providers(unsatisfied, day=day, time=time, food_type=food_type)
 
     content = json.dumps(fps, cls=ZheroesEncoder)
     return HttpResponse(content, content_type='application/json')

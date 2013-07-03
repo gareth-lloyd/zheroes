@@ -68,6 +68,7 @@ class Command(BaseCommand):
                             organisation_type=ORG_TYPE_LOOKUP[d[ORG_TYPE]],
                             time=d[TIME],
                             means_of_entry=path,
+                            referral_required=referral,
                             eligibility=d[EL],
                             address=d[LOC],
                             location=post_code.location if post_code else None,
@@ -81,10 +82,6 @@ class Command(BaseCommand):
                             r, _ = EntryRequirement.objects.get_or_create(
                                     requirement=requirement)
                             prov.requirements.add(r)
-                    if referral:
-                        r, _ = EntryRequirement.objects.get_or_create(
-                                requirement="Frontline referral")
-                        prov.requirements.add(r)
 
         except Exception, e:
             print e
