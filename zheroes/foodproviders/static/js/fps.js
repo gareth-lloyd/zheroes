@@ -36,7 +36,9 @@ var FiltersView = Backbone.View.extend({
     "click #homeless-no": "notHomeless",
     "click #gender-man": "genderMan",
     "click #gender-woman": "genderWoman",
-    "blur #age": "ageSet",
+    "change #age": "ageSet",
+    "change #daySelector": "daySelected",
+    "change #timeSelector": "timeSelected",
   },
   homeless: function() {
     this.model.set('homeless', true);
@@ -52,6 +54,12 @@ var FiltersView = Backbone.View.extend({
   },
   ageSet: function() {
     this.model.set('age', $('#age').val());
+  },
+  daySelected: function() {
+    this.model.set('day', $('#daySelector').val());
+  },
+  timeSelected: function() {
+    this.model.set('time', $('#timeSelector').val());
   }
 });
 

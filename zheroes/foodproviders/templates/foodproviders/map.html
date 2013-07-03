@@ -22,18 +22,6 @@
             width: 100%;
             height: 400px;
         }
-        #filterform {
-            padding: 10px;
-            position: absolute;
-            width: 320px;
-            right: 20px;
-            top: 40px;
-            -moz-border-radius: 5px;
-            border-radius: 5px;
-            background: #eee;
-            z-index: 99;
-            box-shadow:inset 0 0 10px #000000;
-        }
         #map img {
             max-width: none;
         }
@@ -72,6 +60,31 @@
     <script>
     $(document).ready(function() {
       var myLatlng = new google.maps.LatLng({{ centreLat }}, {{ centreLng }});
+      var mapStyle = [
+              {
+                "featureType": "poi",
+                "stylers": [
+                  { "visibility": "off" }
+                ]
+              },{
+                "featureType": "landscape",
+                "stylers": [
+                  { "color": "#ffffff" },
+                  { "visibility": "on" }
+                ]
+              },{
+                "featureType": "transit",
+                "stylers": [
+                  { "visibility": "off" }
+                ]
+              },{
+                "featureType": "road",
+                "stylers": [
+                  { "weight": 1 },
+                  { "visibility": "on" }
+                ]
+              }
+            ];
       var mapOptions = {
         zoom: {{ zoom }},
         center: myLatlng,
@@ -104,6 +117,43 @@
     </div>
     <div class="row" id="filters">
 
+
+        <div class="span3">
+              <fieldset>
+                  <label>What time is best for you?</label>
+                  <select id="timeSelector">
+                    <option value="any">Any time</option>
+                    <option value="breakfast">Breakfast time</option>
+                    <option value="morning">In the morning</option>
+                    <option value="lunch">Lunch time</option>
+                    <option value="afternoon">In the afternoon</option>
+                    <option value="dinner">Dinner time</option>
+                  </select>
+              </fieldset>
+        </div>
+        <div class="span3">
+              <fieldset>
+                  <label>What day is best for you?</label>
+                  <select id="daySelector">
+                    <option value="any">Any time</option>
+                    <option value="m">Monday</option>
+                    <option value="t">Tuesday</option>
+                    <option value="w">Wednesday</option>
+                    <option value="T">Thursday</option>
+                    <option value="f">Friday</option>
+                    <option value="s">Saturday</option>
+                    <option value="S">Sunday</option>
+                  </select>
+              </fieldset>
+        </div>
+
+        <div class="span3">
+              <fieldset>
+                <label>How old are you?</label>
+                <input type="text" placeholder="Type your age..." name="age" id="age"/>
+              </fieldset>
+        </div>
+
         <div class="span3">
             <form><fieldset>
             Are you homeless?
@@ -117,27 +167,6 @@
             </label>
             </fieldset></form>
         </div>
-
-        <div class="span3">
-            <form><fieldset>
-            Are you a man or a woman?
-            <label class="radio">
-             <input type="radio" name="gender" id="gender-man" value="man">
-              man
-            </label>
-            <label class="radio">
-              <input type="radio" name="gender" id="gender-woman" value="woman">
-              woman
-            </label>
-            </fieldset></form>
-        </div>
-        <div class="span3">
-              <fieldset>
-                <label>How old are you?</label>
-                <input type="text" placeholder="Type your age..." name="age" id="age"/>
-              </fieldset>
-        </div>
-
     </div>
     <div class="row">
         <div class="span12">
