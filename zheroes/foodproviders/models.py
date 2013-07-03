@@ -44,21 +44,21 @@ FOOD_TYPE_GROUPS = {
 }
 
 ENTRY_REQS = (
-    ('Mental health','Mental health'),
-    ('Families','Families'),
-    ('Fixed address','Fixed address'),
-    ('Ex service men','Ex service men'),
-    ('Ethnic identity','Ethnic identity'),
-    ('Right to work in UK','Right to work in UK'),
-    ('Refugess, asylum seekers, migrants','Refugees, asylum seekers, migrants'),
-    ('Homeless','Homeless'),
-    ('In receipt of a benefit','In receipt of a benefit'),
-    ('Under 25','Under 25'),
-    ('Over 25','Over 25'),
-    ('Over 60','Over 60'),
-    ('Over 16','Over 16'),
-    ('Live in area','Live in area'),
-    ('Women','Women'),
+    ('Mental health','You must be diagnosed with a mental health issue'),
+    ('Families','You must have a family'),
+    ('Fixed address','You must have a fixed address'),
+    ('Ex service men','You must be an ex-serviceman or woman'),
+    ('Ethnic identity','You must belong to a particular ethnic group - enquire for further details'),
+    ('Right to work in UK','You must have the right to work in UK'),
+    ('Refugees, asylum seekers, migrants','This group is for refugees, asylum seekers, and migrants'),
+    ('Homeless','This service caters for homeless people only'),
+    ('In receipt of a benefit','You must be in receipt of a benefit'),
+    ('Under 25','You must be under 25'),
+    ('Over 25','You must be over 25'),
+    ('Over 60','You must be over 60'),
+    ('Over 16','You must be over 16'),
+    ('Live in area','You must live in the area'),
+    ('Women','This service caters for women only'),
 )
 
 class PostCode(models.Model):

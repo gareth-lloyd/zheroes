@@ -33,7 +33,7 @@ class ZheroesEncoder(json.DjangoJSONEncoder):
         elif isinstance(o, FoodProvider):
             return convert_food_provider(o)
         elif isinstance(o, EntryRequirement):
-            return o.requirement
+            return o.get_requirement_display()
         elif isinstance(o, Point):
             return dict(x=o.x, y=o.y)
         else:

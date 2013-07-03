@@ -77,8 +77,8 @@ class Command(BaseCommand):
                             telephone=d[TEL]
                     )
                     for key in UJS:
-                        requirement = ENTRY_LOOKUP.get(d[key])
-                        if requirement:
+                        requirement = d[key]
+                        if requirement and requirement in ENTRY_LOOKUP:
                             r, _ = EntryRequirement.objects.get_or_create(
                                     requirement=requirement)
                             prov.requirements.add(r)

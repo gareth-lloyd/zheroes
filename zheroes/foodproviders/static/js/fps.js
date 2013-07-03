@@ -140,19 +140,19 @@ var Filters = Backbone.Model.extend({
     additional = foodProvider.get('requirements').filter(function(req) {
       // for each requirement, return false if satisfied so that it
       // is not included in the additional list.
-      if (req == "Homeless") {
+      if (req == "This service caters for homeless people only") {
         return !(homeless === true);
       }
-      if (age && req == "Over 16") {
+      if (age && req == "You must be over 16") {
         return age < 16;
       }
-      if (age && req == "Under 25") {
+      if (age && req == "You must be under 25") {
         return age > 25;
       }
-      if (age && req == "Over 25") {
+      if (age && req == "You must be over 25") {
         return age <= 25;
       }
-      if (age && req == "Over 60") {
+      if (age && req == "You must be over 60") {
         return age < 60;
       }
       return true;
