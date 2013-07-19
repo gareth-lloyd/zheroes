@@ -1,0 +1,4325 @@
+[
+{
+    "pk": 2726, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": null, 
+        "means_of_entry": "register when they come in", 
+        "organisation_type": "d", 
+        "name": "240 Project", 
+        "zheroes_id": 1, 
+        "address": "240 Lancaster Road, London, W11 4AH", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "No under 20s", 
+        "cost": "f", 
+        "location": "POINT (51.5145859468340248 -0.2125322647096300)", 
+        "time": "Monday-Wednesday, 11am-4pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "c", 
+        "email": "info@240project.org.uk"
+    }
+},
+{
+    "pk": 2727, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "ACE OF CLUBS", 
+        "zheroes_id": 2, 
+        "address": "St Alphonsus Road, London, SW4 7AS", 
+        "referral_required": false, 
+        "telephone": "020 7720 2811", 
+        "eligibility": "No under 16s, no one intoxicated", 
+        "cost": "l", 
+        "location": "POINT (51.4597679172875502 -0.1361399078376895)", 
+        "time": "Monday-Friday, 12-1.30pm, 2-2.30pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2728, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": null, 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Acton Homeless", 
+        "zheroes_id": 3, 
+        "address": "1 Berrymead Gardens, Acton,\u00a0London W3 8AA", 
+        "referral_required": false, 
+        "telephone": "02089925768\u00a0", 
+        "eligibility": "No intoxication or violence", 
+        "cost": "f", 
+        "location": "POINT (51.5056566169971575 -0.2677454751100248)", 
+        "time": "Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": "actonhomelessconcern@yahoo.com/ www.acton-olol.com"
+    }
+},
+{
+    "pk": 2729, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "All Saints Church", 
+        "zheroes_id": 4, 
+        "address": "All Saints Church, Carnegie Street, N1 9QW", 
+        "referral_required": false, 
+        "telephone": "2078370720", 
+        "eligibility": "No under 16s, no one intoxicated", 
+        "cost": "f", 
+        "location": "POINT (51.5348579000957017 -0.1149179877136860)", 
+        "time": "Tuesday and Thursday 10-12am", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2730, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Baron's Court Project", 
+        "zheroes_id": 5, 
+        "address": "69 Talgarth road, London, W14 9DD", 
+        "referral_required": false, 
+        "telephone": "2076035232", 
+        "eligibility": "Mental illness living in hammersmith and fulham or homeless with mental illness. Womens only and Black only times available too.", 
+        "cost": "l", 
+        "location": "POINT (51.4897322842657772 -0.2081022678014756)", 
+        "time": "Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm", 
+        "requirements": [
+            85, 
+            86, 
+            87, 
+            88
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2731, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Ticket collected on the day", 
+        "organisation_type": "c", 
+        "name": "Bloomsbury Central Baptist Church", 
+        "zheroes_id": 6, 
+        "address": "235 Shaftesbury Avenue, London, WC2H 8EP", 
+        "referral_required": false, 
+        "telephone": "2072400544", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5159190036808141 -0.1251129564134577)", 
+        "time": "Sunday 13:30pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2732, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "o", 
+        "name": "Cardinal Hume", 
+        "zheroes_id": 7, 
+        "address": "3-7 Arneway Street, Horseferry Road, London, SW1P 2BG", 
+        "referral_required": false, 
+        "telephone": "2072221602", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4952381939969825 -0.1298952388677910)", 
+        "time": "Monday-Thursday 9am-4pm, Friday 12:30pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2733, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Need to register at the centre and become a member", 
+        "organisation_type": "d", 
+        "name": "Charlie Ratchford Centre", 
+        "zheroes_id": 8, 
+        "address": "Belmont Street, London, NW1 8HF", 
+        "referral_required": false, 
+        "telephone": "2074852968", 
+        "eligibility": "Live in Camden borough, over 60 years, phyically disabled, dementia, mental health, isolated in own home", 
+        "cost": "l", 
+        "location": "POINT (51.5441330393541719 -0.1501177025289470)", 
+        "time": "12:00pm", 
+        "requirements": [
+            85, 
+            88, 
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2734, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Christian Kitchen", 
+        "zheroes_id": 9, 
+        "address": "Mission Grove (car park) near the market, Walthamstow", 
+        "referral_required": false, 
+        "telephone": "2085094600", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Sunday 7.30pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2735, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "http://www.churcharmy.org.uk/Marylebone", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Church Army - Marylebone \nProject Womens Day Centre", 
+        "zheroes_id": 10, 
+        "address": "125 Cosway street, NW1 5NR", 
+        "referral_required": false, 
+        "telephone": "2036753645", 
+        "eligibility": "Homeless, single women only, no children ", 
+        "cost": "f", 
+        "location": "POINT (51.5210150595122158 -0.1641303595484437)", 
+        "time": "Monday-Friday 12-1.30pm", 
+        "requirements": [
+            84, 
+            86, 
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2736, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Church of the Immaculate Conception/Farm St Church", 
+        "zheroes_id": 11, 
+        "address": "114 Mount Street, W1K 3AH", 
+        "referral_required": false, 
+        "telephone": "2074937811", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2737, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": null, 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Coptic City Mission (St Mark\u2019s Coptic Orthodox Church)", 
+        "zheroes_id": 12, 
+        "address": "Ameircan Church, 79A Tottenham Court Road, W1T 4TD, BACK ENTRANCE of church", 
+        "referral_required": false, 
+        "telephone": "2075802791", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5205492951799684 -0.1340482023757364)", 
+        "time": "Monday, Tuesday, Thursday-Saturday 10am-12pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": "info@amchurch.co.uk\u00a0"
+    }
+},
+{
+    "pk": 2738, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "nas website referral needed", 
+        "organisation_type": "d", 
+        "name": "Croydon Resource centre", 
+        "zheroes_id": 13, 
+        "address": "1A Mansfield place, South Croydon, Surrey CR2 6HP", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Live in Croydon/ SE border", 
+        "cost": "f", 
+        "location": "POINT (51.3553917422949056 -0.0945149402714141)", 
+        "time": "12pm", 
+        "requirements": [
+            88
+        ], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2739, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Deptford Reach", 
+        "zheroes_id": 15, 
+        "address": "Mansfield place 1A South Croydon, Surrey CR2 6HP", 
+        "referral_required": false, 
+        "telephone": "020 8692 6548", 
+        "eligibility": "Vunerable adults, no under 16s", 
+        "cost": "l", 
+        "location": "POINT (51.3553917422949056 -0.0945149402714141)", 
+        "time": "9am-10.30am, 12pm-1.1:30pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2740, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "register when they come in", 
+        "organisation_type": "d", 
+        "name": "Drovers Day Centre North Road", 
+        "zheroes_id": 16, 
+        "address": "19 North Road N7 9EY", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Live in Islington, over 50", 
+        "cost": "l", 
+        "location": "POINT (51.5479518459305623 -0.1227287150150502)", 
+        "time": "Monday-Friday 9am-10.30am, 12pm-1.30pm", 
+        "requirements": [
+            88, 
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2741, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Emmanuel Church Stratford", 
+        "zheroes_id": 17, 
+        "address": "Romford Road, Forest Gate, London E7 8BD", 
+        "referral_required": false, 
+        "telephone": "0208 522 1900", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5459200270316629 0.0290039473512728)", 
+        "time": "Thursday 8-10am", 
+        "requirements": [
+            84, 
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2742, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": null, 
+        "means_of_entry": "", 
+        "organisation_type": "h", 
+        "name": "Good Samaria Network ", 
+        "zheroes_id": 18, 
+        "address": "King George\u2019s Hostel, 75 Great Peter St, London, Greater London SW1P 2BN", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.4961659958998084 -0.1299869349563286)", 
+        "time": "Sunday and Monday 5.30-7.30pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": "smo-uk@hotmail.co.uk "
+    }
+},
+{
+    "pk": 2743, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "h", 
+        "name": "Streetlytes", 
+        "zheroes_id": 19, 
+        "address": "King George\u2019s Hostel, 75 Great Peter St, London, Greater London SW1P 2BN", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4961659958998084 -0.1299869349563286)", 
+        "time": "Tuesday 6-9pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2744, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "h", 
+        "name": "Khaniqahi Nimatallahi", 
+        "zheroes_id": 20, 
+        "address": "King George\u2019s Hostel, 75 Great Peter St, London, Greater London SW1P 2BN", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4961659958998084 -0.1299869349563286)", 
+        "time": "Wednesday 6-8pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2745, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "h", 
+        "name": "First Steps", 
+        "zheroes_id": 21, 
+        "address": "King George\u2019s Hostel, 75 Great Peter St, London, Greater London SW1P 2BN", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4961659958998084 -0.1299869349563286)", 
+        "time": "Thursday 8.30-10pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2746, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "h", 
+        "name": "Lighthouse Chapel International", 
+        "zheroes_id": 22, 
+        "address": "King George\u2019s Hostel, 75 Great Peter St, London, Greater London SW1P 2BN", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4961659958998084 -0.1299869349563286)", 
+        "time": "Friday 8.30 pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2747, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: Social services", 
+        "organisation_type": "d", 
+        "name": "Grace Organisation", 
+        "zheroes_id": 23, 
+        "address": "11 Whitehall Street, Tottenham, London, N17 8BP", 
+        "referral_required": true, 
+        "telephone": "2088080718", 
+        "eligibility": "Elderly people, anyone who needs help in the home", 
+        "cost": "l", 
+        "location": "POINT (51.6031020369115012 -0.0679998337645335)", 
+        "time": "Sunday-Friday 9.30am-4.30pm", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2748, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Hackney Seventh Day Adventist Church", 
+        "zheroes_id": 24, 
+        "address": "The Strand and Waterloo", 
+        "referral_required": false, 
+        "telephone": "0791 362 5443", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Sunday 7pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2749, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "foodforall.org.uk", 
+        "means_of_entry": "", 
+        "organisation_type": "R", 
+        "name": "Hare Krishna", 
+        "zheroes_id": 25, 
+        "address": "Kentish Town behind tube station in the van", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Saturday 12-1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2750, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "foodforall.org.uk", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Hare Krishna", 
+        "zheroes_id": 25, 
+        "address": "Camden Town Arlington road next to mecca bingo", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Saturday 1-1.45pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2751, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "foodforall.org.uk", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Hare Krishna", 
+        "zheroes_id": 25, 
+        "address": "Kings Cross York Way next to train station.", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Saturday 2-2.30pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2752, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "need to register first and become resident", 
+        "organisation_type": "h", 
+        "name": "Highway of holiness", 
+        "zheroes_id": 26, 
+        "address": "8, Fountayne Rd, N15 4QL", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5835752673112822 -0.0608018146619212)", 
+        "time": "Daily", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2753, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "register before hand", 
+        "organisation_type": "c", 
+        "name": "Holy Apostles Church", 
+        "zheroes_id": 27, 
+        "address": "47 Cumberland street, SW1V 4LY", 
+        "referral_required": false, 
+        "telephone": "2078346965", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4877255212615665 -0.1415832798718126)", 
+        "time": "December-March only on a thrursday", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2754, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Imperial College Community Action Group", 
+        "zheroes_id": 28, 
+        "address": "Lincoln's Inn Fields WC2A 3JW", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5154141281835649 -0.1171768516248068)", 
+        "time": "Sunday 8pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2755, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Entertainment evening need invite given out on Tea run or collect at church on Monday mornings", 
+        "organisation_type": "d", 
+        "name": "The Allsouls Clubhouse\u00a0", 
+        "zheroes_id": 29, 
+        "address": "141 Cleveland St, London, Greater London W1T 6QG", 
+        "referral_required": false, 
+        "telephone": "2072559762", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5222954204376506 -0.1403634180268387)", 
+        "time": "Thursday 6.30pm, ", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2756, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "", 
+        "zheroes_id": 29, 
+        "address": "The Strand", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Daily 4am-7am", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "t", 
+        "email": null
+    }
+},
+{
+    "pk": 2757, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "The Allsouls Clubhouse", 
+        "zheroes_id": 29, 
+        "address": "141 Cleveland St, London, Greater London W1T 6QG", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5222954204376506 -0.1403634180268387)", 
+        "time": "Daily 9.30am -12pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2758, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "New Horizon Youth Centre", 
+        "zheroes_id": 30, 
+        "address": "68 Charlton Street, NW1 1JR", 
+        "referral_required": false, 
+        "telephone": "0207 388 5560", 
+        "eligibility": "Young people, 16-21, must be willing to participate in additional services eg. Education, job searcch etc.", 
+        "cost": "f", 
+        "location": "POINT (51.5298039291818100 -0.1284212146834827)", 
+        "time": "Daily 1-2pm", 
+        "requirements": [
+            91
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2759, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Marlybone Centre", 
+        "zheroes_id": 31, 
+        "address": "1-5 Coseway Street, NW1 5NR", 
+        "referral_required": false, 
+        "telephone": "02 07 262 3818", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5210150595122158 -0.1641303595484437)", 
+        "time": "Daily 9.30am-12pm 12-1.30pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2760, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Whitechapel Mission", 
+        "zheroes_id": 32, 
+        "address": "212 Whitechapel Rd, E1 1BJ", 
+        "referral_required": false, 
+        "telephone": "0207 247 8280", 
+        "eligibility": "Homeless", 
+        "cost": "l", 
+        "location": "POINT (51.5188090831882448 -0.0557124213756405)", 
+        "time": "Daily 6-10am", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2761, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "West London Day Centre", 
+        "zheroes_id": 33, 
+        "address": "134 Seymour Place, W1H 1NT", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "m", 
+        "location": "POINT (51.5199471571432213 -0.1619820914791534)", 
+        "time": "Daily 9-11.30am", 
+        "requirements": [
+            89, 
+            92
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2762, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Webber Street London City Mission", 
+        "zheroes_id": 34, 
+        "address": "6 Webber Street SE1 8QA", 
+        "referral_required": false, 
+        "telephone": "0207 351 4948", 
+        "eligibility": "Homeless,  no under 21", 
+        "cost": "f", 
+        "location": "POINT (51.5007444403908323 -0.1059366385276420)", 
+        "time": "Daily 9-10am", 
+        "requirements": [
+            84, 
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2763, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "The Manna Project", 
+        "zheroes_id": 35, 
+        "address": "St. Stephens Church, 17 Canenbury Rd, N1 2DF", 
+        "referral_required": false, 
+        "telephone": "0207 354 3363", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5403843002648188 -0.0951471203664540)", 
+        "time": "Tuesday 7-9pm, Wednesday 1-3pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2764, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Street Souls", 
+        "zheroes_id": 36, 
+        "address": "68 Manor Lane, London, SE13 5QP", 
+        "referral_required": false, 
+        "telephone": "0208 336 1734 or 020 8785 9530", 
+        "eligibility": "all", 
+        "cost": "f", 
+        "location": "POINT (51.4553452860873790 0.0048731911632249)", 
+        "time": "1st and 3rd Friday 8pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2765, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St Mary Magdalen", 
+        "zheroes_id": 37, 
+        "address": "Holloway Road, Islington, London N9 8LT", 
+        "referral_required": false, 
+        "telephone": "020 7607 2203", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.6283838272805085 -0.0452499756316139)", 
+        "time": "Anytime", 
+        "requirements": [
+            88, 
+            89
+        ], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2766, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St. Martins in the field", 
+        "zheroes_id": 38, 
+        "address": "12 Adeleide Street, WC2N 4HW", 
+        "referral_required": false, 
+        "telephone": "0207 766 5555", 
+        "eligibility": "Based on assesment", 
+        "cost": "l", 
+        "location": "POINT (51.5087238073768958 -0.1245292410529250)", 
+        "time": "Daily 9.30am, 11.30am", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2767, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "s", 
+        "name": "Best Before", 
+        "zheroes_id": 39, 
+        "address": "", 
+        "referral_required": false, 
+        "telephone": "07823 323240", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2768, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St John the Evangelist", 
+        "zheroes_id": 40, 
+        "address": "39 Duncan Terrace, N1 8AL", 
+        "referral_required": false, 
+        "telephone": "020 7226 3277", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5336968800906519 -0.1014829176786019)", 
+        "time": "Tuesday-Saturday 12.30-1.30pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2769, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "o", 
+        "name": "Women at the well", 
+        "zheroes_id": 41, 
+        "address": "54-55 Birkenhead Street,\u00a0London,\u00a0WC1H 8BB", 
+        "referral_required": false, 
+        "telephone": "0207 520 1710", 
+        "eligibility": "Vunerable women only", 
+        "cost": "f", 
+        "location": "POINT (51.5294453647662252 -0.1206208280902606)", 
+        "time": "Tuesday-Thursday 12-4pm", 
+        "requirements": [
+            86
+        ], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2770, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "h", 
+        "name": "The Passage", 
+        "zheroes_id": 42, 
+        "address": "St Vincent\u2019s Centre, SW1P 1NL", 
+        "referral_required": false, 
+        "telephone": "0207 592 1850", 
+        "eligibility": "Based on assesment", 
+        "cost": "l", 
+        "location": "POINT (51.4952565378134395 -0.1400954758388682)", 
+        "time": "Daily 8-10am, 12-1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2771, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Membership \u00a34 a year", 
+        "organisation_type": "S", 
+        "name": "Tudor Leaf Luncheon", 
+        "zheroes_id": 43, 
+        "address": "461 Field End Road, Ruislip, HA4 9NZ", 
+        "referral_required": false, 
+        "telephone": "0208 866 8603", 
+        "eligibility": "Over 60, members only", 
+        "cost": "l", 
+        "location": "POINT (51.5693827455935292 -0.3882206663145250)", 
+        "time": "12-3pm", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2772, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Upper Room", 
+        "zheroes_id": 44, 
+        "address": "St Saviours, Wendell Park, London, W12 9LN ", 
+        "referral_required": false, 
+        "telephone": "0208 741 6550", 
+        "eligibility": "No under 18s", 
+        "cost": "f", 
+        "location": "POINT (51.5020788309207376 -0.2472747070356453)", 
+        "time": "Daily 5.30pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2773, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Upper Holloway Baptist Church", 
+        "zheroes_id": 45, 
+        "address": "11 Tollington Way, Holloway, London N7 6RG", 
+        "referral_required": false, 
+        "telephone": "0208 340 3642", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5612216534640808 -0.1213164513198265)", 
+        "time": "Monday 10am-1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2774, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "voucher, referral", 
+        "organisation_type": "c", 
+        "name": "South London Vineyard", 
+        "zheroes_id": 46, 
+        "address": "SW London Vineyard 98 Graham Road Wimbledon, SW19 3SS", 
+        "referral_required": false, 
+        "telephone": "020 8785 9530", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4166372222899284 -0.2042887034755022)", 
+        "time": "Wednesday 10am-12pm, Sunday 2-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2775, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "St Cuthbert Centre", 
+        "zheroes_id": 47, 
+        "address": "Philbeach Gardens, SW5 9EB", 
+        "referral_required": false, 
+        "telephone": "0207 835 1389", 
+        "eligibility": "No under 18s", 
+        "cost": "l", 
+        "location": "POINT (51.4901871102598321 -0.1984609217501660)", 
+        "time": "Daily 12.30-2.15pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2776, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Southwark Day Centre", 
+        "zheroes_id": 48, 
+        "address": "Copleston Centre, Copleston Rd,\u00a0London, SE15 4AN", 
+        "referral_required": false, 
+        "telephone": "0207 732 0505", 
+        "eligibility": "Refugees, asylum seekers, migrants", 
+        "cost": "f", 
+        "location": "POINT (51.4657613101726312 -0.0756937326934589)", 
+        "time": "N/A", 
+        "requirements": [
+            102
+        ], 
+        "food_type": "M", 
+        "email": null
+    }
+},
+{
+    "pk": 2777, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Simon Community", 
+        "zheroes_id": 49, 
+        "address": "Hind street, Westminister ", 
+        "referral_required": false, 
+        "telephone": "2075853602", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday and Thursday 8.15 pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2778, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Simon Community", 
+        "zheroes_id": 49, 
+        "address": "Street caf\u00e9 @ st giles Denmark Street", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 2-4pm and Sunday1.15-3.15 pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2779, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Simon Community", 
+        "zheroes_id": 49, 
+        "address": "Marble Arch", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday and Sunday 8.30am", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2780, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Simon Community", 
+        "zheroes_id": 49, 
+        "address": "Waterloo", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday and Thursday  9.45pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2781, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Simon Community", 
+        "zheroes_id": 49, 
+        "address": "The Strand", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday 7.15am", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2782, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "www.shp.org.uk", 
+        "means_of_entry": "Referral", 
+        "organisation_type": "h", 
+        "name": "SHP Homeless", 
+        "zheroes_id": 50, 
+        "address": "245 Gray\u2019s Inn Road London WC1X 8QY", 
+        "referral_required": false, 
+        "telephone": "020 7520 8660", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5279832705832135 -0.1180568724429859)", 
+        "time": "N/A", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2783, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "o", 
+        "name": "Sadu Vaswawi Centre", 
+        "zheroes_id": 51, 
+        "address": "Lincoln's Inn Fields WC2A 3JW", 
+        "referral_required": false, 
+        "telephone": "0208 455 7775", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5154141281835649 -0.1171768516248068)", 
+        "time": "Wednesday 8pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2784, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Pepper Pot Centre", 
+        "zheroes_id": 52, 
+        "address": "1A Thorpe Close, W10 5XL", 
+        "referral_required": false, 
+        "telephone": "7970643290", 
+        "eligibility": "", 
+        "cost": "l", 
+        "location": "POINT (51.5176633664885131 -0.2073376475472939)", 
+        "time": "12.30-1.30pm", 
+        "requirements": [
+            87
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2785, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Teen Challenge", 
+        "zheroes_id": 53, 
+        "address": "Whitechapel station", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday 9-10pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2786, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Teen Challenge", 
+        "zheroes_id": 53, 
+        "address": "Hackney Central station", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Tuesday 9-10pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2787, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Teen Challenge", 
+        "zheroes_id": 53, 
+        "address": "Brixton station", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday 9-10pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2788, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Teen Challenge", 
+        "zheroes_id": 53, 
+        "address": "Waterloo station", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Thursday 9-10pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2789, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Teen Challenge", 
+        "zheroes_id": 53, 
+        "address": "Stratford station", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 9-10pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2790, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Providence", 
+        "zheroes_id": 54, 
+        "address": "Dellow Centre, 82 Wentworth St, London E1 7SA", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Based on assesment, live in area", 
+        "cost": "l", 
+        "location": "POINT (51.5164858661652261 -0.0702408013105792)", 
+        "time": "Daily 8am-12pm", 
+        "requirements": [
+            88
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2791, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral", 
+        "organisation_type": "d", 
+        "name": "New Horizon Food", 
+        "zheroes_id": 55, 
+        "address": "New Guinness Trust Estate, Cadogan Street, SW3 2PF", 
+        "referral_required": false, 
+        "telephone": "0207 590 8972", 
+        "eligibility": "Over 50, fit in with members of club", 
+        "cost": "f", 
+        "location": "POINT (51.4916665044446589 -0.1616648435464901)", 
+        "time": "N/A", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2792, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Manor Centre", 
+        "zheroes_id": 56, 
+        "address": "6 Melior Street London Bridge London SE1 3QP", 
+        "referral_required": false, 
+        "telephone": "0207 403 1931", 
+        "eligibility": "no under 18s", 
+        "cost": "f", 
+        "location": "POINT (51.5020782905871215 -0.0834155068820819)", 
+        "time": "unspecified", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2793, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "assessed, but will feed anyone", 
+        "organisation_type": "d", 
+        "name": "London Jesus Centre", 
+        "zheroes_id": 57, 
+        "address": "83 Margret Street, W1W 8TB", 
+        "referral_required": false, 
+        "telephone": "0207 637 0600", 
+        "eligibility": "No under 16s ", 
+        "cost": "f", 
+        "location": "POINT (51.5163953206169580 -0.1369424057266453)", 
+        "time": "Monday-Friday 10am-12.30pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2794, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Muswell Hill Baptist Church", 
+        "zheroes_id": 58, 
+        "address": "Muswell Hill Baptist Church, N10 2PT", 
+        "referral_required": false, 
+        "telephone": "02 08 444 7027", 
+        "eligibility": "No under 18s, well behaved", 
+        "cost": "f", 
+        "location": "POINT (51.5914865184793641 -0.1389246913068861)", 
+        "time": "Sunday-Thursday 7.45pm", 
+        "requirements": [
+            84
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2795, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "call first", 
+        "organisation_type": "d", 
+        "name": "New Barnet Community", 
+        "zheroes_id": 59, 
+        "address": "New Barnet Center, 50 Victoraia Road, New Barnet EN4 9PF", 
+        "referral_required": false, 
+        "telephone": "020 8441 7044", 
+        "eligibility": "over 60", 
+        "cost": "l", 
+        "location": "POINT (51.6500765452852875 -0.1691121329675149)", 
+        "time": "1pm", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2796, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "d", 
+        "name": "Welcome Project", 
+        "zheroes_id": 60, 
+        "address": "2 ST Marys Road, Ilford, IG1 1QP", 
+        "referral_required": false, 
+        "telephone": " 020 8514 3283 ", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5602360635909349 0.0850200800757787)", 
+        "time": "12", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2797, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Notre Dame Church", 
+        "zheroes_id": 61, 
+        "address": "5 Leicester Place, London, WC2H 7BX", 
+        "referral_required": false, 
+        "telephone": "0207440 2660", 
+        "eligibility": "Refugee, asylum seekers, migrants", 
+        "cost": "f", 
+        "location": "POINT (51.5108286715909074 -0.1284928677490989)", 
+        "time": "", 
+        "requirements": [
+            102
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2798, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Chelsea Methodist Church", 
+        "zheroes_id": 62, 
+        "address": "155 Kings Road, SW3 5TX", 
+        "referral_required": false, 
+        "telephone": "0207 351 4948", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4872965745812010 -0.1657445595406597)", 
+        "time": "Daily 1.30pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2799, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "www.tabcentre.com", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "TAB Center & St Leonards Church", 
+        "zheroes_id": 63, 
+        "address": "St Leonards Church, E1 6JN", 
+        "referral_required": false, 
+        "telephone": "0207 613 3232", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5257994797284979 -0.0760322707471993)", 
+        "time": "Tuesday 2-4pm and Wednesday 10am-12.30pm ", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2800, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "www.tabcentre.com", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "TAB Centre", 
+        "zheroes_id": 63, 
+        "address": "TAB center 18-20 Hackney Rd E2 7NS", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5269006769143729 -0.0751784183447246)", 
+        "time": "Thursday 8-10pm Friday 9am-12pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2801, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Spires", 
+        "zheroes_id": 64, 
+        "address": "8, Tooting Bec Gardens, SW16 1RB", 
+        "referral_required": false, 
+        "telephone": "0208 696 0943", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.4297494048430153 -0.1317652199251130)", 
+        "time": "", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2802, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "must register", 
+        "organisation_type": "d", 
+        "name": "St Pancras Community Centre", 
+        "zheroes_id": 65, 
+        "address": "30 Camden Street, London NW1 0LG", 
+        "referral_required": false, 
+        "telephone": "0207 380 1501", 
+        "eligibility": "Over 50", 
+        "cost": "l", 
+        "location": "POINT (51.5358824772344164 -0.1339979328914315)", 
+        "time": "Daily 10am-2pm", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2803, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "s", 
+        "name": "FoodCycle", 
+        "zheroes_id": 66, 
+        "address": "St. Pancras Community center, 30 Camden Street, London, NW1 0LG", 
+        "referral_required": false, 
+        "telephone": "020 7380 1501", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5358824772344164 -0.1339979328914315)", 
+        "time": "Sunday 1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2804, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "s", 
+        "name": "FoodCycle", 
+        "zheroes_id": 67, 
+        "address": "11 Southwood Smith Street, LONDON N1 0YL", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5363635621278746 -0.1034341714769749)", 
+        "time": "Wednesday 1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2805, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "s", 
+        "name": "FoodCycle", 
+        "zheroes_id": 68, 
+        "address": "Caversham Road,Kentish Town, NW5 2DS beside Barclays Bank", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5483412566270118 -0.1358682474007672)", 
+        "time": "Monday-Saturday 12pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2806, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "s", 
+        "name": "FoodCycle", 
+        "zheroes_id": 69, 
+        "address": "Inverness Street, Camden, NW1 7HJ", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5391297014226382 -0.1425327346299820)", 
+        "time": "Monday-Saturday 1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2807, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "s", 
+        "name": "FoodCycle", 
+        "zheroes_id": 70, 
+        "address": "York Way, Kings Cross, N1 9AG", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5337672533860811 -0.1203706927877445)", 
+        "time": "Monday-Saturday 2pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2808, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St. Andrew's Church", 
+        "zheroes_id": 71, 
+        "address": " 51 Philbeach Gardens, London, SW5 9EB", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.4901871102598321 -0.1984609217501660)", 
+        "time": "Saturday 10.30am-1.30pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2809, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "referral (can be self)", 
+        "organisation_type": "o", 
+        "name": "Beside", 
+        "zheroes_id": 72, 
+        "address": "60-61 Old Nichol Street, E2 7HP", 
+        "referral_required": false, 
+        "telephone": "2070336888", 
+        "eligibility": "Mental health issues", 
+        "cost": "f", 
+        "location": "POINT (51.5244489940019648 -0.0726578391560523)", 
+        "time": "Daily 1.30 pm", 
+        "requirements": [
+            85
+        ], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2810, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Food For All", 
+        "zheroes_id": 73, 
+        "address": "LSE campus, Houghton Street, London WC2A 2AE", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5134565308861667 -0.1151243188722677)", 
+        "time": "Monday-Saturday 12.30-2pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2811, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Food For All", 
+        "zheroes_id": 74, 
+        "address": "SOAS campus, Thornhaugh Street, Russell Square, London WC1H 0XG", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5218413567411275 -0.1276520859486825)", 
+        "time": "Monday-Saturday 12.30-2pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2812, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Food For All", 
+        "zheroes_id": 75, 
+        "address": "Kentish Town", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Saturday 12pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2813, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Food For All", 
+        "zheroes_id": 76, 
+        "address": "Camden Town", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Saturday 1pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2814, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Food For All", 
+        "zheroes_id": 77, 
+        "address": "Kings Cross", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Saturday 2.15pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2815, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "referral (can be self)", 
+        "organisation_type": "d", 
+        "name": "Cricklewood Homeless Concern", 
+        "zheroes_id": 78, 
+        "address": "60 Ashford Road, NW2 6TU", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless, elderly, no under 18s, must have permission to work in UK", 
+        "cost": "m", 
+        "location": "POINT (51.5559489402343800 -0.2174031397612192)", 
+        "time": "Daily 1pm", 
+        "requirements": [
+            84, 
+            89, 
+            94
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2816, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "referral from homeless charities esp. St Martins in the fields", 
+        "organisation_type": "H", 
+        "name": "EMMAUS Greenwich", 
+        "zheroes_id": 79, 
+        "address": "226 Elmley Street SE18 7NN", 
+        "referral_required": false, 
+        "telephone": "0208 854 3426", 
+        "eligibility": "No under 18s, must be on housing benefits or job seekers allowance, must 'volunteer' for 40 hrs/ week - to the best of their ability", 
+        "cost": "f", 
+        "location": "POINT (51.4863128299578960 0.0836765691528853)", 
+        "time": "N/A", 
+        "requirements": [
+            84, 
+            95
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2817, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "referral from homeless charities esp. St Martins in the fields", 
+        "organisation_type": "H", 
+        "name": "", 
+        "zheroes_id": 80, 
+        "address": "9 Knight's Hill, West Norwood, London SE27 0HS", 
+        "referral_required": false, 
+        "telephone": "0208 761 4340", 
+        "eligibility": "No under 18s, must be on housing benefits or job seekers allowance, must 'volunteer' for 40 hrs/ week - to the best of their ability", 
+        "cost": "f", 
+        "location": "POINT (51.4303665838492421 -0.1024465374982017)", 
+        "time": "N/A", 
+        "requirements": [
+            84, 
+            95
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2818, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Triumphant Church International", 
+        "zheroes_id": 81, 
+        "address": "136 West Green Road, London, N15 5AD", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5849104182399145 -0.0785453602967070)", 
+        "time": "Wednesday 12pm, Sunday 8am", 
+        "requirements": [
+            88, 
+            89
+        ], 
+        "food_type": "M", 
+        "email": null
+    }
+},
+{
+    "pk": 2819, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "r", 
+        "name": "Zaccheus Project", 
+        "zheroes_id": 83, 
+        "address": "Approach Road, Bethnal Green, London E2 9JP (Corner of Approach Road and Bonner Road)", 
+        "referral_required": false, 
+        "telephone": "0208 980 3745", 
+        "eligibility": "Over 55", 
+        "cost": "l", 
+        "location": "POINT (51.5319454020991685 -0.0490097731418056)", 
+        "time": "Daily 10am-1pm", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2820, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Our Lady Help of Christians", 
+        "zheroes_id": 84, 
+        "address": "4 Lady Margaret Road, NW5 2XT", 
+        "referral_required": false, 
+        "telephone": "0207 485 4023", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5511159253498761 -0.1355961211436846)", 
+        "time": "Monday, Wednesday, Friday 2-3pm, Sunday 3-4pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2821, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "The London and Slough run ", 
+        "zheroes_id": 85, 
+        "address": "Lincoln's Inn Fields outside ACCA", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday 9pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2822, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "http://thelondonandsloughrun.com/", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "The London and Slough run", 
+        "zheroes_id": 86, 
+        "address": "Victoria station area", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday 9pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2823, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Ministry of Praise", 
+        "zheroes_id": 87, 
+        "address": "Lincoln's Inn Fields", 
+        "referral_required": false, 
+        "telephone": "020 8808 7697", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Tuesday 7.30-9pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2824, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Croydon nightwatch", 
+        "zheroes_id": 88, 
+        "address": "Queens gardens, Fell Road, Croydon, CR9 1SA", 
+        "referral_required": false, 
+        "telephone": "020 8699 6718", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.3716365551090348 -0.0974040616982373)", 
+        "time": "Monday-Sunday 9.30pm ", 
+        "requirements": [
+            84, 
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2825, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "i", 
+        "name": "Peoples kitchen at Passing Clouds", 
+        "zheroes_id": 89, 
+        "address": "Passing clouds 1 Richmond Rd\u00a0\u00a0London, Greater London E8 4AA", 
+        "referral_required": false, 
+        "telephone": "2072414889/07828691416 Dan (peoples kitchen) ", 
+        "eligibility": "", 
+        "cost": "l", 
+        "location": "POINT (51.5410160563403821 -0.0743520090743180)", 
+        "time": "Sunday 6.30pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2826, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Saint Ignatius R.C. Church", 
+        "zheroes_id": 90, 
+        "address": " 27 High Rd, London, Greater London N15 6ND (beside the church through the car park)", 
+        "referral_required": false, 
+        "telephone": "2088002121", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5758814088405799 -0.0714495395842334)", 
+        "time": "Monday and Friday Polish community 1-3pm, Tuesday-Thursday soup 2-3pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2827, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St Gabriel\u00e2\u20ac\u2122s Community Centre", 
+        "zheroes_id": 91, 
+        "address": "21 Hatchard Road, London, N19 4NG", 
+        "referral_required": false, 
+        "telephone": "2072728195", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5647213425721489 -0.1253280649564029)", 
+        "time": "Daily 9am", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2828, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "London City Aid", 
+        "zheroes_id": 92, 
+        "address": "Tothill Street (near the DWP offices, Caxton House), Victoria", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "2nd Wedesday of the month 8.30-11pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2829, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Victoria Ministries", 
+        "zheroes_id": 93, 
+        "address": "Palmer St, (close to Brewers Green), Victoria", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Sunday 7pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2830, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Missionaries of charity", 
+        "zheroes_id": 94, 
+        "address": "Pius X Church Hall, St Charles Sq, Ladbroke Grove W10 6EB", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5211564667385460 -0.2122893849560885)", 
+        "time": "Monday-Wednesday and Friday 4pm, Sunday 3pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2831, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "", 
+        "zheroes_id": 94, 
+        "address": "112-116 St Georges Rd, Elephant SE1 6EU, Spitalfields", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4960103278375243 -0.1034961738915744)", 
+        "time": "Monday-Wednesday and Friday 10.30am, Sunday 3pm,", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2832, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "ASLAN", 
+        "zheroes_id": 95, 
+        "address": "Rear of Transport Museum, Tavistock Street , Covent Garden,  ", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 5.30am", 
+        "requirements": [], 
+        "food_type": "t", 
+        "email": null
+    }
+},
+{
+    "pk": 2833, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "ASLAN", 
+        "zheroes_id": 95, 
+        "address": "Milford Lane, Tea run, off the Strand,", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 6.10am", 
+        "requirements": [], 
+        "food_type": "t", 
+        "email": null
+    }
+},
+{
+    "pk": 2834, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "ASLAN", 
+        "zheroes_id": 95, 
+        "address": "Adam St, off the Strand, ", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 6.40am", 
+        "requirements": [], 
+        "food_type": "t", 
+        "email": null
+    }
+},
+{
+    "pk": 2835, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "ASLAN", 
+        "zheroes_id": 95, 
+        "address": "Waterloo, St John\u2019s church", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 7.30am", 
+        "requirements": [], 
+        "food_type": "t", 
+        "email": null
+    }
+},
+{
+    "pk": 2836, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "The Sacred Heart", 
+        "zheroes_id": 96, 
+        "address": "Seaforth Place, Back of City Hall, Victoria", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Tuesday and Fridays 9pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2837, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Penge run", 
+        "zheroes_id": 97, 
+        "address": "Tothill Street (near the DWP offices, Caxton House), Victoria and Lincoln's Inn Fields", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "2nd Saturday of the month 8pm, 2nd and 4th Saturdays of the month 10pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2838, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "f", 
+        "name": "Food for the Homeless group", 
+        "zheroes_id": 98, 
+        "address": "The Strand / Embankment \u2013 behind the Adelphi Theatre", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday 9pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2839, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St Monica\u2019s Church", 
+        "zheroes_id": 99, 
+        "address": "Temple station", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Tuesday 8pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2840, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Love to the Nations Ministries", 
+        "zheroes_id": 100, 
+        "address": "Charing Cross", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday 7pm, Every second Sunday of the month 4pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2841, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "i", 
+        "name": "Remar Association UK", 
+        "zheroes_id": 101, 
+        "address": "William IV St, The Strand", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday 7.30-8.30pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2842, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Agape", 
+        "zheroes_id": 102, 
+        "address": "Embankment North side", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday 8pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2843, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Christ\u2019s Chapel", 
+        "zheroes_id": 103, 
+        "address": "The Strand", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Last Thursday of the month 7pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2844, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Christian Community of London", 
+        "zheroes_id": 104, 
+        "address": "The Strand", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Friday 7pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2845, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "H", 
+        "name": "FAST58", 
+        "zheroes_id": 105, 
+        "address": "The Strand (near Rymans) and Waterloo near imax", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Thursday 8.45-11pm and 8.50-11pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2846, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St John Vianney", 
+        "zheroes_id": 106, 
+        "address": "Embankment/Temple Station ", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 5.30-6pm ", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2847, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Joy of Serving Others (Word of Faith).", 
+        "zheroes_id": 107, 
+        "address": "The Strand", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Saturday 7.30pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2848, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Children of Adam", 
+        "zheroes_id": 108, 
+        "address": "Lincoln's Inn Field's", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Sunday 6pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2849, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St Vincent de Paul", 
+        "zheroes_id": 109, 
+        "address": "Lincoln's Inn Field's", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Friday 7.30pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2850, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "St Thomas of Canterbury", 
+        "zheroes_id": 110, 
+        "address": "Lincoln's Inn Field's", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "2nd and last Wednesday of the month 9pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2851, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Brixton Seventh Day Adventist Church", 
+        "zheroes_id": 111, 
+        "address": "Santley Street, Clapham, London SW4 7QG,  ", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4609329724166074 -0.1212343521580620)", 
+        "time": "Thursday 7pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2852, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Brixton Seventh Day Adventist Church", 
+        "zheroes_id": 111, 
+        "address": "428 \u2013 434 Lewisham High St, London SE13 6LJ ", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4511670214806855 -0.0159660383886382)", 
+        "time": "Thursday 7pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2853, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "H", 
+        "name": "Nightwatch", 
+        "zheroes_id": 112, 
+        "address": "Queens Gardens, Croyden", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday-Sunday 9.30pm", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2854, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "www.kidsco.org.uk/contact", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Arches II (Kids Company)", 
+        "zheroes_id": 113, 
+        "address": "1 Kenbury Street, SE5 9BS", 
+        "referral_required": false, 
+        "telephone": "2072748378", 
+        "eligibility": "Under 23s only", 
+        "cost": "f", 
+        "location": "POINT (51.4694037780606237 -0.0960750154818876)", 
+        "time": "Daily 1-2pm and 3.30-4.30pm, food parcels every other Thursday", 
+        "requirements": [
+            91
+        ], 
+        "food_type": "M", 
+        "email": null
+    }
+},
+{
+    "pk": 2855, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "www.kidsco.org.uk/contact", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Urban Academy (Kids Compnay)", 
+        "zheroes_id": 114, 
+        "address": "34 Decima Street, SE1 4QQ", 
+        "referral_required": false, 
+        "telephone": "2074078419", 
+        "eligibility": "Young people, over 16, needing alterative education and/or life skills with complex emotional or behavioural needs.", 
+        "cost": "f", 
+        "location": "POINT (51.4971218405083491 -0.0817070859918114)", 
+        "time": "Daily 9-9.30 and 1-2pm, ad hoc food parcels", 
+        "requirements": [
+            84, 
+            91
+        ], 
+        "food_type": "M", 
+        "email": null
+    }
+},
+{
+    "pk": 2856, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "www.kidsco.org.uk/contact", 
+        "means_of_entry": "Referral only through schools, local authority education departments, children\u2019s services and social services", 
+        "organisation_type": "y", 
+        "name": "Treehouse (Kids Company)", 
+        "zheroes_id": 115, 
+        "address": "85-87 Fordwych Road, Kilburn, London, NW2 3TL", 
+        "referral_required": false, 
+        "telephone": "2084389519", 
+        "eligibility": "Under 16s only, children/young people  and their families who have suffered traumatic experiences and faced enormous challenges. ", 
+        "cost": "f", 
+        "location": "POINT (51.5499106395161419 -0.2030119498491288)", 
+        "time": "DAILY 9am, 11am, 1pm, 3.30pm and 5.30pm", 
+        "requirements": [
+            91, 
+            96
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2857, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "voucher", 
+        "organisation_type": "g", 
+        "name": "Healthy Start", 
+        "zheroes_id": 116, 
+        "address": "N/A", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Pregnant, children under 4, family income less than \u00a316,000 ", 
+        "cost": "f", 
+        "location": null, 
+        "time": "N/A", 
+        "requirements": [
+            86, 
+            96
+        ], 
+        "food_type": "f", 
+        "email": null
+    }
+},
+{
+    "pk": 2858, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "m", 
+        "name": "Al Manaar", 
+        "zheroes_id": 117, 
+        "address": "244 Acklam Road, London W10 5YG", 
+        "referral_required": false, 
+        "telephone": "020 8964 1496", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.5213169521790348 -0.2027827755926900)", 
+        "time": "Every other Friday 7pm", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2859, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "voucher", 
+        "organisation_type": "r", 
+        "name": "Nando's", 
+        "zheroes_id": 118, 
+        "address": "Various", 
+        "referral_required": false, 
+        "telephone": "2082465363", 
+        "eligibility": "Discretion of manager", 
+        "cost": "m", 
+        "location": null, 
+        "time": "Daily", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2860, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "http://www.rugbyportobello.org.uk/", 
+        "means_of_entry": "", 
+        "organisation_type": "y", 
+        "name": "Rugby- Portobello Trust", 
+        "zheroes_id": 119, 
+        "address": "221 Walmer Road, W11 4EY", 
+        "referral_required": false, 
+        "telephone": "0207 229 2928", 
+        "eligibility": "Young people, age 5-25", 
+        "cost": "f", 
+        "location": "POINT (51.5117765500427893 -0.2105379136848506)", 
+        "time": "Daily", 
+        "requirements": [
+            91
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2861, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Streatham united reformed church", 
+        "zheroes_id": 120, 
+        "address": "388 Streatham High Road, SW16 6HX", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4237878969378244 -0.1295915984196331)", 
+        "time": "Monday 7-9pm", 
+        "requirements": [], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2862, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "e", 
+        "name": "Community food enterprise limited", 
+        "zheroes_id": 121, 
+        "address": "Van", 
+        "referral_required": false, 
+        "telephone": "2075119014", 
+        "eligibility": "all", 
+        "cost": "l", 
+        "location": null, 
+        "time": "Tuesday and Wednesday", 
+        "requirements": [], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2863, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "b", 
+        "name": "We Care Foodbank", 
+        "zheroes_id": 122, 
+        "address": "467 Newcross Road, SE14 6TA", 
+        "referral_required": false, 
+        "telephone": "2072315656", 
+        "eligibility": "all below poverty line in Lewisham and Greenwich (not homeless)", 
+        "cost": "l", 
+        "location": "POINT (51.4752897632876625 -0.0283132554793629)", 
+        "time": "Monday-Saturday 11am-2pm", 
+        "requirements": [
+            97
+        ], 
+        "food_type": "s", 
+        "email": null
+    }
+},
+{
+    "pk": 2864, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "r", 
+        "name": "Filling the Gap Community Caf\u00e9", 
+        "zheroes_id": 123, 
+        "address": "Samaritan Hall, Perront Road, N15 3AA", 
+        "referral_required": false, 
+        "telephone": "7910271056", 
+        "eligibility": "all", 
+        "cost": "l", 
+        "location": "POINT (51.5841408851532250 -0.0909065051421039)", 
+        "time": "Thursday-Friday 11.30am-2pm", 
+        "requirements": [], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2865, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "sign up to course", 
+        "organisation_type": "t", 
+        "name": "Clean Break", 
+        "zheroes_id": 124, 
+        "address": "Clean Break, 2 Patshull Road, London,NW5 2LB", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "women only 18+", 
+        "cost": "f", 
+        "location": "POINT (51.5466173089156001 -0.1394438508586414)", 
+        "time": "N/A", 
+        "requirements": [
+            84, 
+            86
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2866, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "c", 
+        "name": "Throne of grace and mercy", 
+        "zheroes_id": 125, 
+        "address": "Centre for sports development, Ruthland Walk, London SE6 4LG", 
+        "referral_required": false, 
+        "telephone": "7931711931", 
+        "eligibility": "60+, single mothers & children, ex- servicemen, unemployed", 
+        "cost": "f", 
+        "location": "POINT (51.4367307458161420 -0.0308234150674098)", 
+        "time": "Saturday 1.30-3pm", 
+        "requirements": [
+            98
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2867, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "referral from ex- services", 
+        "organisation_type": "h", 
+        "name": "Big House", 
+        "zheroes_id": 126, 
+        "address": "56 Camberwell Road, SE5 0EN", 
+        "referral_required": false, 
+        "telephone": "2077039613", 
+        "eligibility": "ex- servicemen", 
+        "cost": "f", 
+        "location": "POINT (51.4830426186262002 -0.0930293589173898)", 
+        "time": "N/A", 
+        "requirements": [
+            98
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2868, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "http://dragoncafe.co.uk/", 
+        "means_of_entry": "", 
+        "organisation_type": "r", 
+        "name": "MFC Dragon Caf\u00e9", 
+        "zheroes_id": 127, 
+        "address": "St George the Martyre, SE1 1JA", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "all", 
+        "cost": "l", 
+        "location": "POINT (51.5011721198424439 -0.0907162375468162)", 
+        "time": "Mon 11.30am-8.30pm", 
+        "requirements": [
+            85
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2869, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "refered vauxhall", 
+        "organisation_type": "h", 
+        "name": "Bondway night shelter ", 
+        "zheroes_id": 128, 
+        "address": "62 Bondway Road, SW8 1SF", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": "POINT (51.4828284371622402 -0.1243532511993932)", 
+        "time": "N/A", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2870, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: Ealing Council", 
+        "organisation_type": "h", 
+        "name": "YMCA west london", 
+        "zheroes_id": 129, 
+        "address": "Various", 
+        "referral_required": true, 
+        "telephone": "  0300 1111 500", 
+        "eligibility": "Homeless", 
+        "cost": "f", 
+        "location": null, 
+        "time": "N/A", 
+        "requirements": [
+            89
+        ], 
+        "food_type": "m", 
+        "email": null
+    }
+},
+{
+    "pk": 2871, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "referral by pcso, frontline workers", 
+        "organisation_type": "c", 
+        "name": "YMCA orbital community centre", 
+        "zheroes_id": 130, 
+        "address": "home delivery", 
+        "referral_required": false, 
+        "telephone": "01923 894444", 
+        "eligibility": "vulnerable members of community, especially elderly", 
+        "cost": "f", 
+        "location": null, 
+        "time": "4x / year", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2872, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "", 
+        "organisation_type": "S", 
+        "name": "Blackfriars settlement", 
+        "zheroes_id": 131, 
+        "address": "90-94 Great Sulfolk street, SE1 0BE", 
+        "referral_required": false, 
+        "telephone": "", 
+        "eligibility": "Thur 50+, Fri -Partially sighted, Sun all", 
+        "cost": "l", 
+        "location": "POINT (51.5012294990468433 -0.0992302283589421)", 
+        "time": "Thursday and Friday 12pm, Sunday 1pm", 
+        "requirements": [
+            90
+        ], 
+        "food_type": "c", 
+        "email": null
+    }
+},
+{
+    "pk": 2873, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and Waterloo action centre", 
+        "organisation_type": "b", 
+        "name": "Waterloo Foodbank", 
+        "zheroes_id": 132, 
+        "address": "3 Kennington Road, London, SE1 7QP", 
+        "referral_required": true, 
+        "telephone": "020 7921 4205", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4976675502006245 -0.1103292779056176)", 
+        "time": "Tuesday 11am-1pm,Friday 10am-12pm ", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2874, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and cardinal hulme centre 3 arneway street, se1v 2bd", 
+        "organisation_type": "b", 
+        "name": "Westminister Foodbank", 
+        "zheroes_id": 133, 
+        "address": "Westminster Chapel Buckingham Gate, London, SW1E 6BS", 
+        "referral_required": true, 
+        "telephone": "020 7834 1731", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4982089069825477 -0.1362865414918441)", 
+        "time": "Monday 2-4pm, Thursday 11am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2875, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Vauxhall Foodbank", 
+        "zheroes_id": 134, 
+        "address": "Christchurch London, The Matrix Complex, 91 Peterborough Road, London SW6 3BU", 
+        "referral_required": true, 
+        "telephone": "08456 448 440/07586258991/02073846486(Christchurch)", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4702263993577418 -0.1952729822008155)", 
+        "time": "Wednesday and Saturday 11.30am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2876, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Camden Foodbank", 
+        "zheroes_id": 135, 
+        "address": " RCCG City Church, 14 Pratt Mews, London", 
+        "referral_required": true, 
+        "telephone": "2073874551", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Tuesday 12-5pm, Sunday 10am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2877, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Chalk Farm Food Bank", 
+        "zheroes_id": 136, 
+        "address": " Chalk Farm Baptist Church, Berkley Road, London, NW1 8YR ", 
+        "referral_required": true, 
+        "telephone": "0207 483 3763", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5410383662210165 -0.1546276925212876)", 
+        "time": "Saturday 11am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2878, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Islington Foodbank", 
+        "zheroes_id": 137, 
+        "address": "Rock Tower, 49 Tufnell Park Road, London, N7 0PS", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5570551408211699 -0.1267831512702885)", 
+        "time": "Monday 4-6pm, ", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2879, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Islington Foodbank", 
+        "zheroes_id": 137, 
+        "address": "3 Aztec Row, Berners Road, Angel Islington N1 0PW ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5346393560087321 -0.1035923767868381)", 
+        "time": "Saturday 2-5pm ", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2880, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Hackney Foodbank", 
+        "zheroes_id": 138, 
+        "address": "St. Matthias Church, Wordsworth Road, Stoke Newington, N16 8DD", 
+        "referral_required": true, 
+        "telephone": "07570 862937", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5519985893190622 -0.0777255465819350)", 
+        "time": "Monday 11am-1:45pm in Hoxton, Thursday 12:00pm-2:15pm in Stoke Newington", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2881, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Kensington and Chelsea Foodbank", 
+        "zheroes_id": 139, 
+        "address": "St Luke's Church, Redcliffe Gardens London, SW10 9HF ", 
+        "referral_required": true, 
+        "telephone": "0207 052 0336/020 7370 0338", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4868212740474647 -0.1872277406295929)", 
+        "time": "Tuesday 12-3pm, Friday 1-4", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2882, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and One stop shop near peckham library", 
+        "organisation_type": "b", 
+        "name": "Southwark Foodbank (Pecan)", 
+        "zheroes_id": 140, 
+        "address": "121a Peckham High Street, Peckham SE15 5SE", 
+        "referral_required": true, 
+        "telephone": "020 7732 0007", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4735913572807817 -0.0667377154979251)", 
+        "time": "Tuesday 10am-1pm, Thursday 2-5pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2883, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Hammersmith and Fulham Foodbank: and ", 
+        "zheroes_id": 141, 
+        "address": "67 Studridge Street , Fulham , London , SW6 3TD", 
+        "referral_required": true, 
+        "telephone": "020 7751 2248", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4707024493961214 -0.1946493800086625)", 
+        "time": "Tuesday 10.30am-1pm Fridays 2-4.30pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2884, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Hammersmith and Fulham Foodbank", 
+        "zheroes_id": 141, 
+        "address": "St. Simon's Church, Rockley Road, London, W14 0DA (Shepherd's Bush Centre) ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5016311947377545 -0.2181692501680726)", 
+        "time": "Thursday 1-3pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2885, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Clapham Park Foodbank", 
+        "zheroes_id": 142, 
+        "address": "All Nations Baptist Church, The Bonneville Centre, 12 Poynders Road, Clapham Park, SW4 8NY", 
+        "referral_required": true, 
+        "telephone": "0208 675 7661\u00a0", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4498350900028711 -0.1392937390920532)", 
+        "time": "Tuesday and Friday 11-2", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2886, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Brent Foodbank", 
+        "zheroes_id": 143, 
+        "address": "Christchurch, (Corner of Christchurch Avenue and Willesden Lane) London,NW6 7YN", 
+        "referral_required": true, 
+        "telephone": "07854 585 660", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5439826567555670 -0.2111640023443287)", 
+        "time": "Tuesday and Thursday 1-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2887, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Tower Hamlets Foodbank", 
+        "zheroes_id": 144, 
+        "address": "Bethnal Green Mission Church, 305 Cambridge Heath Road, E3 5AT", 
+        "referral_required": true, 
+        "telephone": "020 3609 0850", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5274880097586987 -0.0335995077498198)", 
+        "time": "Friday 10am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2888, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 144, 
+        "address": "Salvation Army Poplar, Kerbey Street, London, E14 6AJ ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5111612937476551 -0.0141960560141871)", 
+        "time": "Friday 11am-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2889, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Haringey Foodbank", 
+        "zheroes_id": 145, 
+        "address": "Haringey Play Association, Somerford Grove Community Project, Tottenham N17 0HL", 
+        "referral_required": true, 
+        "telephone": "0203 441 3617/07557 111 374", 
+        "eligibility": "Female and family only", 
+        "cost": "f", 
+        "location": "POINT (51.6024013968655240 -0.0604185276357374)", 
+        "time": "Wednesday 10am-2pm", 
+        "requirements": [
+            86, 
+            96
+        ], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2890, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 145, 
+        "address": "The Gospel Centre, Wightman Road, London N8 0LT", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5877838961254653 -0.1076023461513395)", 
+        "time": "Tuesday 6.30pm-9pm, Sunday 11.30am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2891, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and Tabinar house, Croydon", 
+        "organisation_type": "b", 
+        "name": "Norwood & Brixton Foodbank", 
+        "zheroes_id": 146, 
+        "address": "St Luke's Church, Knights Hill, WEST NORWOOD London, SE27 0HS", 
+        "referral_required": true, 
+        "telephone": "7722121108", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4303665838492421 -0.1024465374982017)", 
+        "time": "Tuesday 10am-1pm, Friday 10m-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2892, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and Tabinar house, Croydon", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 146, 
+        "address": "St Paul's Church, 184 Ferndale Road, Brixton, SW9 8AH ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4626670949721969 -0.1188882491489628)", 
+        "time": "St Pauls Tuesday 10.30am-1pm, Saturday 11am-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2893, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Lewisham Foodbank", 
+        "zheroes_id": 147, 
+        "address": "Malham Christian Centre, Malham Road, Forest Hill, SE23 1AN", 
+        "referral_required": true, 
+        "telephone": "020 8776 5050", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4423878191958792 -0.0431727798746409)", 
+        "time": "Wednesday 10am-12pm, Friday 2-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2894, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 147, 
+        "address": "The Tabernacle, Algernon Road, Lewisham, London, SE13 7AT", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4636313257006250 -0.0169660041881828)", 
+        "time": "Tuesday and Thursday 12-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2895, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and Bonnie Down Community Centre", 
+        "organisation_type": "b", 
+        "name": "Newham Foodbank", 
+        "zheroes_id": 148, 
+        "address": " St Marks Centre, 218 Tollgate Road, Beckton, London, E6 5YA", 
+        "referral_required": true, 
+        "telephone": "2074743060", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5154045199747443 0.0558428140805876)", 
+        "time": "Fridays 6.30-8.30pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2896, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Greenwich Foodbank", 
+        "zheroes_id": 149, 
+        "address": "Thamesmead: Under Flat One, Kingsley Court, Byron Close, SE28 8AA", 
+        "referral_required": true, 
+        "telephone": "07771 830549", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5027436174413680 0.1193584147440097)", 
+        "time": "Saturday 11am-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2897, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 149, 
+        "address": "Woolwhich: 2-4 Commonwealth Building, Woolwich Church Street, SE18 5NS", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4924963059055472 0.0492216269287285)", 
+        "time": "Wednesday 5-7pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2898, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 149, 
+        "address": "Plumstead: 2-4 Commonwealth Building, Woolwich Church Street, SE18 5NS", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4924963059055472 0.0492216269287285)", 
+        "time": "Monday 2-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2899, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 149, 
+        "address": "Eltham: 542 Westhorne Avenue, SE9 6DH,", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4539036008726640 0.0404675239187143)", 
+        "time": "Friday 11am-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2900, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 149, 
+        "address": "Blackheath: Boys Brigade Hall, Reynolds Place, SE3 8SX", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4764255639531001 0.0284671515765838)", 
+        "time": "Thursday 10.30am-2.30pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2901, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 149, 
+        "address": "Kidbrooke: OneSpace, Kidbrooke Park Road, London, SE3 9YY", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4587650754317565 0.0287924582326725)", 
+        "time": "Tuesday 11am-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2902, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and Wimbledon Guild", 
+        "organisation_type": "b", 
+        "name": "Wimbledon Foodbank", 
+        "zheroes_id": 150, 
+        "address": " 59 High Path, Wimbledon, SW19 2JY", 
+        "referral_required": true, 
+        "telephone": "020 8544 0126\u00a0", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4130120597677660 -0.1873016002882581)", 
+        "time": "Monday, Tuesday, Thursday 12-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2903, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Colindale Foodbank", 
+        "zheroes_id": 151, 
+        "address": "Novo Centre, The Concourse Graham Park, Colindale, London, NW9 5XB", 
+        "referral_required": true, 
+        "telephone": "020 83584672", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.6017566596470871 -0.2427455142528049)", 
+        "time": "Thursday 10am-6pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2904, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities and Children's Centre Gascoigne", 
+        "organisation_type": "b", 
+        "name": "Barking Foodbank", 
+        "zheroes_id": 152, 
+        "address": "The Communion Centre Unit A2 (Next to Bestselling Cash & Carry) Circular 13 Industrial Estate Gascoigne Road, Barking, IG11 7LT", 
+        "referral_required": true, 
+        "telephone": "07507 648948", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5294501656795703 0.0835119592499037)", 
+        "time": "Wednesday and Friday 7-9pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2905, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Richmond Foodbank", 
+        "zheroes_id": 153, 
+        "address": "\u00a0The Vineyard Community Centre, The Vineyard, Richmond TW10 6AQ", 
+        "referral_required": true, 
+        "telephone": "0208 9400274", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4573149651794779 -0.3008013085316978)", 
+        "time": "Monday and Thursday 12.30-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2906, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Redbridge Foodbank", 
+        "zheroes_id": 154, 
+        "address": "The King's Centre, 14 Granville Road, Ilford IG1 4JY", 
+        "referral_required": true, 
+        "telephone": "07905 820 537", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5626507942744254 0.0725909761761552)", 
+        "time": "Monday,Tuesday and Friday 12-1pm, Wednesday 2-5pm, Saturday 12-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2907, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "North Enfield Foodbank", 
+        "zheroes_id": 155, 
+        "address": " Jubilee Church, Unit 5 Martinbridge Trading Estate, Lincoln Road, Enfield, EN1 1SP", 
+        "referral_required": true, 
+        "telephone": "020 8804 0990", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.6450987482879640 -0.0563847593275524)", 
+        "time": "Tuesday, Thursday, Saturday 11am-3pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2908, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Bexley Foodbank", 
+        "zheroes_id": 156, 
+        "address": "c/o Avery Hill Christian Fellowship, Southspring, Sidcup, DA15 8EA", 
+        "referral_required": true, 
+        "telephone": "7932431350", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4444789317728777 0.0863913283542476)", 
+        "time": "Tuesday 1-4pm, Thursday 12-3pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2909, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Chipping Barnet Foodbank", 
+        "zheroes_id": 157, 
+        "address": "The Salvation Army, Barnet Corps, Albert Road, East Barnet, Barnet EN4 9SH ", 
+        "referral_required": true, 
+        "telephone": "07716 890 535", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.6503864782628881 -0.1716874953350265)", 
+        "time": "Saturday 12-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2910, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Sutton Foodbank", 
+        "zheroes_id": 158, 
+        "address": " Sutton Salvation Army Church, Benhill Avenue, Sutton, SM1 4DD\u00a0", 
+        "referral_required": true, 
+        "telephone": "07525 838 640", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.3664386514644562 -0.1881933124416567)", 
+        "time": "Monday and Friday 12-2pm Wednesday 6.30-8pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2911, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Kingston Foodbank", 
+        "zheroes_id": 159, 
+        "address": "Kingston United Reformed Church, Eden Street, Kingston Upon Thames, KT1 1HZ", 
+        "referral_required": true, 
+        "telephone": "020 8391 1100", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4086873392979413 -0.3032951048484562)", 
+        "time": "Tuesday and Friday \u00a011:00 - 14:00", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2912, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 159, 
+        "address": "The Kings Centre, Coppard Gardens, Chessington, KT9 2GZ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.3619955250294069 -0.3128221053776511)", 
+        "time": "Thursday 10:00 - 12:30", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2913, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 159, 
+        "address": "New Malden Baptist Church, 1a Westbury Road, KT3 5BE", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.3994274564243199 -0.2630206415020145)", 
+        "time": "", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2914, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Collier Row Foodbank", 
+        "zheroes_id": 160, 
+        "address": "The Ascension Church, 68 Collier Row Road, Romford, RM5 2BA ", 
+        "referral_required": true, 
+        "telephone": "The Ascension Church, 68 Collier Row Road, Romford, RM5 2BA", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5978612587623857 0.1598588973500931)", 
+        "time": "Friday 12.30-2.30pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2915, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Dagenham Foodbank", 
+        "zheroes_id": 161, 
+        "address": " \"The Beacon\", House of Faith Connections, 104 New Road, Dagenham, RM9 6PE", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5284130407357637 0.1563101461343110)", 
+        "time": "Saturday 2-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2916, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Harold Hill Food Bank", 
+        "zheroes_id": 162, 
+        "address": "153 Hilldene Avenue, RM3 8DL ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.6064252132812484 0.2176226411440040)", 
+        "time": "Monday-Friday 10.30am-1.30pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2917, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Hillingdon Food Bank", 
+        "zheroes_id": 163, 
+        "address": "St Margaret's, Uxbridge", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Monday and Friday 11am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2918, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 163, 
+        "address": "St Anselm, Hays", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Wednesday 12-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2919, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 163, 
+        "address": "Emmanuel Church, Northwood", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Friday 11am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2920, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 163, 
+        "address": "The Kingsborough Centre, Uxbridge ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": null, 
+        "time": "Tuesday 11am-1pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2921, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "Orpington (Bromley) Foodbank", 
+        "zheroes_id": 164, 
+        "address": "111 Cotmandene Crescent, St Paul's Cray, Orpington, BR5 2RB", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4031443948835971 0.1079048147771103)", 
+        "time": "Monday, Wednesday Friday 10am-2pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2922, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "", 
+        "zheroes_id": 164, 
+        "address": "United Reformed Church, 20 Widmore Road, Bromley, Kent, BR1 1RY ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.4052395249892840 0.0185561872650534)", 
+        "time": "Tuesday 10am-2pm Thursday 10am-4pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+},
+{
+    "pk": 2923, 
+    "model": "foodproviders.foodprovider", 
+    "fields": {
+        "website": "", 
+        "means_of_entry": "Referral through frontline services only: GP, Jobcentre, Citizens Advice Beaureau, Social services, selected local authorities", 
+        "organisation_type": "b", 
+        "name": "RainhamFoodbank", 
+        "zheroes_id": 165, 
+        "address": "Mardyke Community Centre, South Street, Rainham, RM13 8PJ ", 
+        "referral_required": true, 
+        "telephone": "", 
+        "eligibility": "", 
+        "cost": "f", 
+        "location": "POINT (51.5268348467417354 0.1701929054381388)", 
+        "time": "Monday 6-7.30pm", 
+        "requirements": [], 
+        "food_type": "n", 
+        "email": null
+    }
+}
+]

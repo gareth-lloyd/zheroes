@@ -1,0 +1,7243 @@
+[
+{
+    "pk": 2, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2726, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 3, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2726, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 5, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2726, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 9, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 10, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 11, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 12, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 13, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 14, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 15, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2727, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 16, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 17, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 18, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 19, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 20, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 21, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 22, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2728, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 24, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2729, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 27, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2729, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 30, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2730, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 31, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2730, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 32, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2730, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 33, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2730, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 34, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2730, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 42, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2731, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 44, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2732, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 45, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2732, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 46, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2732, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 47, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2732, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 48, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2732, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 51, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 52, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 53, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 54, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 55, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 56, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 57, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2733, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 58, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 59, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 60, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 61, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 62, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 63, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 64, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2734, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 65, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2735, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 66, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2735, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 67, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2735, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 68, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2735, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 69, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2735, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 72, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2736, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 79, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2737, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 80, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2737, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 81, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2737, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 83, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2737, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 85, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2737, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 86, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 87, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 88, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 89, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 90, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 91, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 92, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2738, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 93, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 94, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 95, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 96, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 97, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 98, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 99, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2739, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 100, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2740, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 101, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2740, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 102, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2740, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 103, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2740, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 104, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2740, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 111, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2741, 
+        "breakfast": true, 
+        "day": "T"
+    }
+},
+{
+    "pk": 114, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2742, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 119, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2742, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 122, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2743, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 131, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2744, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 139, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2745, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 144, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2746, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 149, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2747, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 150, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2747, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 151, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2747, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 152, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2747, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 153, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2747, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 154, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2747, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 161, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2748, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 163, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2749, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 164, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2749, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 165, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2749, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 166, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2749, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 167, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2749, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 169, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2749, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 170, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2750, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 171, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2750, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 172, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2750, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 173, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2750, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 174, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2750, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 176, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2750, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 177, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2751, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 178, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2751, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 179, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2751, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 180, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2751, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 181, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2751, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 183, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2751, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 189, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2754, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 195, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2755, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 198, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 199, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "t"
+    }
+},
+{
+    "pk": 200, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "f"
+    }
+},
+{
+    "pk": 201, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "w"
+    }
+},
+{
+    "pk": 202, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "T"
+    }
+},
+{
+    "pk": 203, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 204, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2756, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 205, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 206, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 207, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 208, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 209, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 210, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 211, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2757, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 212, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 213, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 214, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 215, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 216, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 217, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 218, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2758, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 219, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 220, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 221, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 222, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 223, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 224, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 225, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2759, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 226, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 227, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "t"
+    }
+},
+{
+    "pk": 228, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "f"
+    }
+},
+{
+    "pk": 229, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "w"
+    }
+},
+{
+    "pk": 230, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "T"
+    }
+},
+{
+    "pk": 231, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 232, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2760, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 233, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 234, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 235, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 236, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 237, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 238, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 239, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2761, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 240, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 241, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 242, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 243, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 244, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 245, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 246, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2762, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 248, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2763, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 250, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2763, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 256, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2764, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 261, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 262, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "t"
+    }
+},
+{
+    "pk": 263, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "f"
+    }
+},
+{
+    "pk": 264, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "w"
+    }
+},
+{
+    "pk": 265, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "T"
+    }
+},
+{
+    "pk": 266, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 267, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2765, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 268, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 269, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 270, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 271, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 272, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 273, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 274, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2766, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 276, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2768, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 277, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2768, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 278, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2768, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 279, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2768, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 281, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2768, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 283, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2769, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 285, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2769, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 286, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2769, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 289, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 290, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "t"
+    }
+},
+{
+    "pk": 291, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "f"
+    }
+},
+{
+    "pk": 292, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "w"
+    }
+},
+{
+    "pk": 293, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "T"
+    }
+},
+{
+    "pk": 294, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 295, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2770, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 296, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 297, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 298, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 299, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 300, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 301, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 302, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2771, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 303, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 304, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 305, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 306, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 307, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 308, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 309, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2772, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 310, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2773, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 320, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2774, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 322, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2774, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 324, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 325, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 326, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 327, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 328, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 329, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 330, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2775, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 334, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2777, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 335, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2777, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 343, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2778, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 344, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2778, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 345, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2779, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 350, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2779, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 355, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2780, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 356, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2780, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 359, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2781, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 369, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2783, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 373, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 374, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 375, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 376, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 377, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 378, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 379, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2784, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 380, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2785, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 388, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2786, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 397, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2787, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 405, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2788, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 414, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2789, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 415, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "m"
+    }
+},
+{
+    "pk": 416, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "t"
+    }
+},
+{
+    "pk": 417, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "f"
+    }
+},
+{
+    "pk": 418, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "w"
+    }
+},
+{
+    "pk": 419, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "T"
+    }
+},
+{
+    "pk": 420, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 421, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2790, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 422, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2793, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 423, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2793, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 424, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2793, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 425, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2793, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 426, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2793, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 429, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2794, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 430, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2794, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 432, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2794, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 433, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2794, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 434, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2794, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 436, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 437, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 438, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 439, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 440, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 441, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 442, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2795, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 443, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 444, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 445, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 446, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 447, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 448, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 449, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2796, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 450, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 451, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 452, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 453, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 454, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 455, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 456, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2798, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 458, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2799, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 460, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2799, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 466, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2800, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 468, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2800, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 471, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 472, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 473, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 474, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 475, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 476, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 477, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2802, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 483, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2803, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 488, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2804, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 492, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2805, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 493, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2805, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 494, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2805, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 495, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2805, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 496, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2805, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 498, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2805, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 499, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2806, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 500, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2806, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 501, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2806, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 502, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2806, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 503, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2806, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 505, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2806, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 506, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2807, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 507, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2807, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 508, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2807, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 509, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2807, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 510, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2807, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 512, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2807, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 519, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2808, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 520, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 521, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 522, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 523, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 524, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 525, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 526, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2809, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 527, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2810, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 528, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2810, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 529, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2810, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 530, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2810, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 531, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2810, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 533, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2810, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 534, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2811, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 535, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2811, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 536, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2811, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 537, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2811, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 538, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2811, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 540, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2811, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 541, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2812, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 542, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2812, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 543, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2812, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 544, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2812, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 545, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2812, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 547, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2812, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 548, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2813, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 549, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2813, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 550, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2813, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 551, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2813, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 552, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2813, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 554, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2813, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 555, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2814, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 556, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2814, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 557, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2814, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 558, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2814, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 559, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2814, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 561, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2814, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 562, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 563, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 564, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 565, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 566, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 567, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 568, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2815, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 572, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2818, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 574, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2818, 
+        "breakfast": true, 
+        "day": "S"
+    }
+},
+{
+    "pk": 576, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 577, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 578, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 579, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 580, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 581, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 582, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2819, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 583, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2820, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 585, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2820, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 586, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2820, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 588, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2820, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 590, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2821, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 597, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2822, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 605, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2823, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 611, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 612, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 613, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 614, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 615, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 616, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 617, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2824, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 623, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2825, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 625, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2826, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 626, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2826, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 627, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2826, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 628, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2826, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 629, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2826, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 632, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 633, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 634, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 635, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 636, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 637, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 638, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2827, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 644, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2829, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 646, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2830, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 647, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2830, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 648, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2830, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 649, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2830, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 651, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2830, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 653, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2831, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 654, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2831, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 655, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2831, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 656, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2831, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 658, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2831, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 666, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2832, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 673, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2833, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 680, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2834, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 687, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2835, 
+        "breakfast": true, 
+        "day": "s"
+    }
+},
+{
+    "pk": 689, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2836, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 690, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2836, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 692, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2836, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 695, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2838, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 703, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2839, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 712, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2840, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 719, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2841, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 726, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2842, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 732, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2844, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 741, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2845, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 750, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2846, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 757, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2847, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 763, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2848, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 767, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2849, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 775, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2850, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 783, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2851, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 790, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2852, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 793, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 794, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 795, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 796, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 797, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 798, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 799, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2853, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 800, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 801, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 802, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 803, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 804, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 805, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 806, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2854, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 807, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 808, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 809, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 810, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 811, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 812, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 813, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2855, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 814, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 815, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 816, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 817, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 818, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 819, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 820, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2856, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 821, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 822, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 823, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 824, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 825, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 826, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 827, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2858, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 828, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2861, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 836, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2862, 
+        "breakfast": true, 
+        "day": "t"
+    }
+},
+{
+    "pk": 838, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2862, 
+        "breakfast": true, 
+        "day": "w"
+    }
+},
+{
+    "pk": 842, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2863, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 843, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2863, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 844, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2863, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 845, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2863, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 846, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2863, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 848, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2863, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 851, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2864, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 853, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2864, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 862, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2866, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 863, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2868, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 872, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2872, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 874, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2872, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 875, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2872, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 878, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2873, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 879, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2873, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 884, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2874, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 888, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2874, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 894, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2875, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 897, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2875, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 899, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2876, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 903, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2876, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 911, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2877, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 912, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2878, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 925, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2879, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 926, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2880, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 927, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2880, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 930, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2880, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 934, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2881, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 935, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2881, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 941, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2882, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 944, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2882, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 948, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2883, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 949, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2883, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 951, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2883, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 958, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2884, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 962, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2885, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 963, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2885, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 969, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2886, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 972, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2886, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 977, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2887, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 984, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2888, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 992, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2889, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 997, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2890, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1001, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2890, 
+        "breakfast": false, 
+        "day": "S"
+    }
+},
+{
+    "pk": 1004, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2891, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1005, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2891, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1011, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2892, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1016, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2892, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 1019, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2893, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1020, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2893, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1025, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2894, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1028, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2894, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1033, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2895, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1044, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2896, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 1048, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": true, 
+        "provider": 2897, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1052, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2898, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1061, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2899, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1070, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2900, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1074, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2901, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1080, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2902, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1081, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2902, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1084, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2902, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1091, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2903, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1096, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2904, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1097, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2904, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1101, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2905, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1105, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2905, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1108, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2906, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1109, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2906, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1110, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2906, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1111, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2906, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1114, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2906, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 1116, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2907, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1119, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2907, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1121, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2907, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 1123, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2908, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1126, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2908, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1135, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2909, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 1136, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2910, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1138, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2910, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1139, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2910, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1144, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2911, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1145, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2911, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1154, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2912, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1159, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2914, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1170, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2915, 
+        "breakfast": false, 
+        "day": "s"
+    }
+},
+{
+    "pk": 1171, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2916, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1172, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2916, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1173, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2916, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1174, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2916, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1175, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2916, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1178, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2917, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1180, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2917, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1188, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2918, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1194, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2919, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1200, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2920, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1206, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2921, 
+        "breakfast": false, 
+        "day": "m"
+    }
+},
+{
+    "pk": 1208, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2921, 
+        "breakfast": false, 
+        "day": "f"
+    }
+},
+{
+    "pk": 1209, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2921, 
+        "breakfast": false, 
+        "day": "w"
+    }
+},
+{
+    "pk": 1214, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": false, 
+        "provider": 2922, 
+        "breakfast": false, 
+        "day": "t"
+    }
+},
+{
+    "pk": 1217, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": true, 
+        "lunch": true, 
+        "dinner": false, 
+        "afternoon": true, 
+        "provider": 2922, 
+        "breakfast": false, 
+        "day": "T"
+    }
+},
+{
+    "pk": 1220, 
+    "model": "foodproviders.servingtime", 
+    "fields": {
+        "morning": false, 
+        "lunch": false, 
+        "dinner": true, 
+        "afternoon": false, 
+        "provider": 2923, 
+        "breakfast": false, 
+        "day": "m"
+    }
+}
+]

@@ -17,6 +17,5 @@ spreadsheets/*
 backups/*
 build/*
 data/*
-zheroes/foodproviders/fixtures/*
 *.swo
 temp/*

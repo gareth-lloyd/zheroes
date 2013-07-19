@@ -1,0 +1,128 @@
+[
+{
+    "pk": 84, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Over 16"
+    }
+},
+{
+    "pk": 85, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Mental health"
+    }
+},
+{
+    "pk": 86, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Women"
+    }
+},
+{
+    "pk": 87, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Ethnic identity"
+    }
+},
+{
+    "pk": 88, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Live in area"
+    }
+},
+{
+    "pk": 89, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Homeless"
+    }
+},
+{
+    "pk": 90, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Over 60"
+    }
+},
+{
+    "pk": 91, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Under 25"
+    }
+},
+{
+    "pk": 92, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Over 25"
+    }
+},
+{
+    "pk": 93, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Refugess, asylum seekers, migrants"
+    }
+},
+{
+    "pk": 94, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Right to work in UK"
+    }
+},
+{
+    "pk": 95, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "In receipt of a benefit"
+    }
+},
+{
+    "pk": 96, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Families"
+    }
+},
+{
+    "pk": 97, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Fixed address"
+    }
+},
+{
+    "pk": 98, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Ex service men"
+    }
+},
+{
+    "pk": 99, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Men"
+    }
+},
+{
+    "pk": 101, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "x"
+    }
+},
+{
+    "pk": 102, 
+    "model": "foodproviders.entryrequirement", 
+    "fields": {
+        "requirement": "Refugees, asylum seekers, migrants"
+    }
+}
+]

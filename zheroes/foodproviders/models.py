@@ -155,5 +155,15 @@ class ServingTime(models.Model):
     dinner = models.BooleanField(default=False,
             help_text="5pm onwards")
 
+    def __unicode__(self):
+        base = "{d}: ".format(d=self.day)
+        times = []
+        for t in ('breakfast', 'morning', 'lunch', 'afternoon', 'dinner'):
+            if getattr(self, t):
+                times.append(t)
+        return base + ", ".join(times)
+
     class Meta:
         unique_together = ('day', 'provider')
+
+

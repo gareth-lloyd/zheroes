@@ -1,0 +1,1985 @@
+_unit_id,_created_at,_golden,_id,_missed,_started_at,_tainted,_channel,_trust,_worker_id,_country,_region,_city,_ip,code,friday,monday,saturday,sunday,thursday,tuesday,wednesday,code_gold,friday_gold,input_str,monday_gold,saturday_gold,sunday_gold,thursday_gold,tuesday_gold,wednesday_gold
+301171264,7/10/2013 18:26:34,true,1005493575,,7/10/2013 18:25:32,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 18:26:37,true,1005493642,,7/10/2013 18:24:18,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 18:27:04,true,1005494197,,7/10/2013 18:24:01,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 18:36:57,true,1005506686,,7/10/2013 18:36:00,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 18:45:51,true,1005518027,,7/10/2013 18:44:50,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 18:49:36,true,1005522472,,7/10/2013 18:48:31,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 18:58:42,true,1005533466,,7/10/2013 18:57:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 19:08:18,true,1005544755,,7/10/2013 19:07:30,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 19:12:13,true,1005548572,,7/10/2013 19:11:12,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 19:16:43,true,1005553353,,7/10/2013 19:15:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 19:18:51,true,1005555327,,7/10/2013 19:18:07,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 19:21:40,true,1005558582,,7/10/2013 19:20:55,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 20:24:23,true,1005624369,,7/10/2013 20:19:54,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171264,7/10/2013 20:30:26,true,1005630982,,7/10/2013 20:28:47,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2726,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2726,,"2726:Monday-Wednesday, 11am-4pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 18:23:49,true,1005491205,,7/10/2013 18:20:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 18:26:37,true,1005493644,,7/10/2013 18:24:18,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 18:27:04,true,1005494195,,7/10/2013 18:24:01,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 18:35:20,true,1005504710,,7/10/2013 18:33:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 18:46:59,true,1005519495,,7/10/2013 18:45:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 18:56:48,true,1005531085,,7/10/2013 18:49:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 19:09:47,true,1005546329,,7/10/2013 19:08:21,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171265,7/10/2013 20:24:23,true,1005624371,,7/10/2013 20:19:54,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",2727,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2727:Monday-Friday, 12-1.30pm, 2-2.30pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm"
+301171266,7/10/2013 18:20:39,true,1005489272,,7/10/2013 18:18:19,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 18:23:49,true,1005491208,,7/10/2013 18:20:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 18:28:32,true,1005495824,true,7/10/2013 18:27:05,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 18:46:55,true,1005519465,,7/10/2013 18:45:21,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 18:48:19,true,1005520999,,7/10/2013 18:46:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 18:48:30,true,1005521152,,7/10/2013 18:46:42,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 19:13:14,true,1005549639,,7/10/2013 19:12:16,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 19:14:00,true,1005550480,,7/10/2013 19:12:15,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 19:15:19,true,1005552288,,7/10/2013 19:14:11,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 19:20:02,true,1005556641,,7/10/2013 19:16:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 19:20:52,true,1005557504,,7/10/2013 19:19:41,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171266,7/10/2013 20:24:23,true,1005624372,,7/10/2013 20:19:54,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2728,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","2728:Daily, 9.30am-12pm, 11.45am-13:50pm,2-8pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards"
+301171267,7/10/2013 18:20:39,true,1005489275,,7/10/2013 18:18:19,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:24:43,true,1005491922,,7/10/2013 18:23:56,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:27:04,true,1005494193,,7/10/2013 18:24:01,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:37:33,true,1005507465,,7/10/2013 18:35:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:41:56,true,1005512673,,7/10/2013 18:40:52,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:42:53,true,1005514043,,7/10/2013 18:41:50,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:45:53,true,1005518102,,7/10/2013 18:42:57,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:51:00,true,1005524182,,7/10/2013 18:49:48,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:53:29,true,1005527188,,7/10/2013 18:52:06,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 18:57:17,true,1005531706,,7/10/2013 18:56:10,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 19:09:39,true,1005546130,,7/10/2013 19:08:41,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 19:11:16,true,1005547830,true,7/10/2013 19:09:42,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2729,,,,,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 19:22:52,true,1005559881,,7/10/2013 19:21:04,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 19:27:12,true,1005564848,,7/10/2013 19:24:05,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 19:32:46,true,1005570763,,7/10/2013 19:27:15,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171267,7/10/2013 20:25:55,true,1005626136,,7/10/2013 20:24:23,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2729,,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,,2729,,2729:Tuesday and Thursday 10-12am,,,,morning: 9am - 12 noon,morning: 9am - 12 noon,
+301171268,7/10/2013 18:20:39,true,1005489287,,7/10/2013 18:18:19,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2730,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,,,afternoon: 2pm - 6pm,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:23:49,true,1005491206,,7/10/2013 18:20:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,dinnertime: 6pm onwards,afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:33:24,true,1005502319,,7/10/2013 18:31:32,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:35:58,true,1005505415,,7/10/2013 18:34:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:41:33,true,1005512138,,7/10/2013 18:38:49,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:43:33,true,1005514956,,7/10/2013 18:42:00,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:49:43,true,1005522594,,7/10/2013 18:48:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:49:51,true,1005522765,,7/10/2013 18:47:00,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 18:54:55,true,1005528901,,7/10/2013 18:53:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 19:06:00,true,1005541932,,7/10/2013 19:04:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 19:07:40,true,1005544074,,7/10/2013 19:06:02,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 19:15:42,true,1005552623,,7/10/2013 19:14:37,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,afternoon: 2pm - 6pm,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171268,7/10/2013 20:28:28,true,1005628904,,7/10/2013 20:26:33,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm,2730,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","2730:Monday-Wednesday and Friday 2-5pm, Womens only Friday 12-2pm, Black people only Tuesday 5-7.30pm",afternoon: 2pm - 6pm,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",afternoon: 2pm - 6pm
+301171269,7/10/2013 18:20:39,true,1005489273,,7/10/2013 18:18:19,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:24:43,true,1005491921,,7/10/2013 18:23:56,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:28:32,true,1005495823,,7/10/2013 18:27:05,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:38:46,true,1005508942,,7/10/2013 18:37:04,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:41:46,true,1005512461,,7/10/2013 18:40:48,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:44:47,true,1005516574,,7/10/2013 18:44:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:45:16,true,1005517349,,7/10/2013 18:43:39,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:46:38,true,1005519005,,7/10/2013 18:45:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:50:34,true,1005523559,,7/10/2013 18:49:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 18:56:03,true,1005530352,,7/10/2013 18:54:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 19:00:02,true,1005535098,,7/10/2013 18:58:46,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 19:02:11,true,1005537883,,7/10/2013 19:01:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 19:08:36,true,1005544963,,7/10/2013 19:07:44,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 19:14:02,true,1005550672,,7/10/2013 19:13:18,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 19:16:03,true,1005552973,,7/10/2013 19:15:23,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 19:19:37,true,1005556259,,7/10/2013 19:18:54,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171269,7/10/2013 20:25:55,true,1005626147,,7/10/2013 20:24:23,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2731,,,,lunchtime: 12 noon - 2pm,,,,2731,,2731:Sunday 13:30pm,,,lunchtime: 12 noon - 2pm,,,
+301171270,7/10/2013 18:53:27,false,1005527160,,7/10/2013 18:52:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2732,lunchtime: 12 noon - 2pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2732:Monday-Thursday 9am-4pm, Friday 12:30pm",,,,,,
+301171270,7/10/2013 18:58:42,false,1005533475,,7/10/2013 18:57:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2732,lunchtime: 12 noon - 2pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2732:Monday-Thursday 9am-4pm, Friday 12:30pm",,,,,,
+301171271,7/10/2013 18:50:34,false,1005523563,,7/10/2013 18:49:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2733,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,"2733:daily, 12:00pm",,,,,,
+301171271,7/10/2013 18:53:28,false,1005527186,,7/10/2013 18:52:06,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2733,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,"2733:daily, 12:00pm",,,,,,
+301171272,7/10/2013 18:33:24,false,1005502321,,7/10/2013 18:31:32,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2734,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2734:Monday-Sunday 7.30pm,,,,,,
+301171272,7/10/2013 18:36:57,false,1005506689,,7/10/2013 18:36:00,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2734,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,afternoon: 2pm - 6pm,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2734:Monday-Sunday 7.30pm,,,,,,
+301171273,7/10/2013 19:14:00,false,1005550553,,7/10/2013 19:12:15,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2735,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2735:Monday-Friday 12-1.30pm,,,,,,
+301171273,7/10/2013 19:14:02,false,1005550671,,7/10/2013 19:13:18,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2735,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2735:Monday-Friday 12-1.30pm,,,,,,
+301171274,7/10/2013 18:46:38,false,1005519011,,7/10/2013 18:45:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2736,,dinnertime: 6pm onwards,,,,,,,,2736:Monday pm,,,,,,
+301171274,7/10/2013 19:06:00,false,1005541922,,7/10/2013 19:04:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2736,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,,,,,,2736:Monday pm,,,,,,
+301171275,7/10/2013 18:46:59,false,1005519494,,7/10/2013 18:45:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2737,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,morning: 9am - 12 noon,morning: 9am - 12 noon,,,,"2737:Monday, Tuesday, Thursday-Saturday 10am-12pm",,,,,,
+301171275,7/10/2013 18:48:30,false,1005521150,,7/10/2013 18:46:42,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2737,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,morning: 9am - 12 noon,morning: 9am - 12 noon,,,,"2737:Monday, Tuesday, Thursday-Saturday 10am-12pm",,,,,,
+301171276,7/10/2013 18:33:24,false,1005502322,,7/10/2013 18:31:32,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2738,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2738:12pm,,,,,,
+301171276,7/10/2013 18:42:29,false,1005513502,,7/10/2013 18:41:36,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2738,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2738:12pm,,,,,,
+301171277,7/10/2013 18:30:28,false,1005498270,,7/10/2013 18:28:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2739,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2739:9am-10.30am, 12pm-1.1:30pm",,,,,,
+301171277,7/10/2013 18:45:16,false,1005517350,,7/10/2013 18:43:39,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2739,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2739:9am-10.30am, 12pm-1.1:30pm",,,,,,
+301171278,7/10/2013 18:26:34,false,1005493572,,7/10/2013 18:25:32,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2740,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2740:Monday-Friday 9am-10.30am, 12pm-1.30pm",,,,,,
+301171278,7/10/2013 18:32:37,false,1005501191,,7/10/2013 18:30:38,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2740,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2740:Monday-Friday 9am-10.30am, 12pm-1.30pm",,,,,,
+301171279,7/10/2013 18:43:49,false,1005515303,,7/10/2013 18:42:52,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2741,,,,,"breakfast: before 9am
+morning: 9am - 12 noon",,,,,2741:Thursday 8-10am,,,,,,
+301171279,7/10/2013 19:14:36,false,1005551329,,7/10/2013 19:12:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2741,,,,,"breakfast: before 9am
+morning: 9am - 12 noon",,,,,2741:Thursday 8-10am,,,,,,
+301171280,7/10/2013 19:07:13,false,1005543642,,7/10/2013 18:56:46,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2742,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,,,,2742:Sunday and Monday 5.30-7.30pm,,,,,,
+301171280,7/10/2013 19:32:46,false,1005570762,,7/10/2013 19:27:15,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2742,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,,,,2742:Sunday and Monday 5.30-7.30pm,,,,,,
+301171281,7/10/2013 18:35:58,false,1005505412,,7/10/2013 18:34:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2743,,,,,,dinnertime: 6pm onwards,,,,2743:Tuesday 6-9pm,,,,,,
+301171281,7/10/2013 18:50:34,false,1005523562,,7/10/2013 18:49:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2743,,,,,,dinnertime: 6pm onwards,,,,2743:Tuesday 6-9pm,,,,,,
+301171282,7/10/2013 18:56:03,false,1005530347,,7/10/2013 18:54:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2744,,,,,,,dinnertime: 6pm onwards,,,2744:Wednesday 6-8pm,,,,,,
+301171282,7/10/2013 19:14:36,false,1005551333,,7/10/2013 19:12:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2744,,,,,,,dinnertime: 6pm onwards,,,2744:Wednesday 6-8pm,,,,,,
+301171283,7/10/2013 18:45:53,false,1005518099,,7/10/2013 18:42:57,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2745,,,,,dinnertime: 6pm onwards,,,,,2745:Thursday 8.30-10pm,,,,,,
+301171283,7/10/2013 19:07:13,false,1005543644,,7/10/2013 18:56:46,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2745,,,,,dinnertime: 6pm onwards,,,,,2745:Thursday 8.30-10pm,,,,,,
+301171284,7/10/2013 18:32:37,false,1005501180,,7/10/2013 18:30:38,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2746,dinnertime: 6pm onwards,,,,,,,,,2746:Friday 8.30 pm,,,,,,
+301171284,7/10/2013 18:57:17,false,1005531696,,7/10/2013 18:56:10,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2746,dinnertime: 6pm onwards,,,,,,,,,2746:Friday 8.30 pm,,,,,,
+301171285,7/10/2013 18:53:29,false,1005527189,,7/10/2013 18:52:06,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2747,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2747:Sunday-Friday 9.30am-4.30pm,,,,,,
+301171285,7/10/2013 19:06:32,false,1005542640,,7/10/2013 18:56:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2747,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2747:Sunday-Friday 9.30am-4.30pm,,,,,,
+301171286,7/10/2013 18:36:56,false,1005506640,,7/10/2013 18:36:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2748,,,,dinnertime: 6pm onwards,,,,,,2748:Sunday 7pm,,,,,,
+301171286,7/10/2013 19:07:13,false,1005543645,,7/10/2013 18:56:46,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2748,,,,dinnertime: 6pm onwards,,,,,,2748:Sunday 7pm,,,,,,
+301171287,7/10/2013 18:20:39,true,1005489274,,7/10/2013 18:18:19,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 18:23:49,true,1005491207,,7/10/2013 18:20:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 18:28:32,true,1005495822,,7/10/2013 18:27:05,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 18:30:28,true,1005498269,,7/10/2013 18:28:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 18:33:59,true,1005503171,,7/10/2013 18:32:44,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 18:39:14,true,1005509357,,7/10/2013 18:37:38,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 18:52:01,true,1005525433,,7/10/2013 18:51:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 19:01:13,true,1005536623,,7/10/2013 19:00:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 19:03:28,true,1005539243,,7/10/2013 19:02:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 19:14:36,true,1005551343,,7/10/2013 19:12:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171287,7/10/2013 20:24:23,true,1005624370,,7/10/2013 20:19:54,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2749,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,2749,lunchtime: 12 noon - 2pm,2749:Monday-Saturday 12-1pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm
+301171288,7/10/2013 18:41:33,false,1005512140,,7/10/2013 18:38:49,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2750,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2750:Monday-Saturday 1-1.45pm,,,,,,
+301171288,7/10/2013 18:52:01,false,1005525410,,7/10/2013 18:51:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2750,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2750:Monday-Saturday 1-1.45pm,,,,,,
+301171289,7/10/2013 18:43:33,false,1005514940,,7/10/2013 18:42:00,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2751,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2751:Monday-Saturday 2-2.30pm,,,,,,
+301171289,7/10/2013 18:50:33,false,1005523556,,7/10/2013 18:49:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2751,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2751:Monday-Saturday 2-2.30pm,,,,,,
+301171290,7/10/2013 18:45:16,false,1005517348,,7/10/2013 18:43:39,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2754,,,,dinnertime: 6pm onwards,,,,,,2754:Sunday 8pm,,,,,,
+301171290,7/10/2013 19:10:54,false,1005547524,,7/10/2013 19:09:49,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2754,,,,dinnertime: 6pm onwards,,,,,,2754:Sunday 8pm,,,,,,
+301171291,7/10/2013 18:40:20,false,1005510740,,7/10/2013 18:36:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2755,,,,,dinnertime: 6pm onwards,,,,,"2755:Thursday 6.30pm, ",,,,,,
+301171291,7/10/2013 19:06:00,false,1005541915,,7/10/2013 19:04:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2755,,,,,dinnertime: 6pm onwards,,,,,"2755:Thursday 6.30pm, ",,,,,,
+301171292,7/10/2013 18:39:14,false,1005509354,,7/10/2013 18:37:38,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2756,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,,,2756:Daily 4am-7am,,,,,,
+301171292,7/10/2013 18:41:46,false,1005512467,,7/10/2013 18:40:48,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2756,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,,,2756:Daily 4am-7am,,,,,,
+301171293,7/10/2013 18:37:33,false,1005507467,,7/10/2013 18:35:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2757,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2757:Daily 9.30am -12pm,,,,,,
+301171293,7/10/2013 19:21:40,false,1005558586,,7/10/2013 19:20:55,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2757,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2757:Daily 9.30am -12pm,,,,,,
+301171294,7/10/2013 18:52:01,false,1005525414,,7/10/2013 18:51:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2758,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2758:Daily 1-2pm,,,,,,
+301171294,7/10/2013 19:15:19,false,1005552285,,7/10/2013 19:14:11,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2758,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2758:Daily 1-2pm,,,,,,
+301171295,7/10/2013 18:24:43,true,1005491928,true,7/10/2013 18:23:56,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 18:26:37,true,1005493643,true,7/10/2013 18:24:18,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 18:27:04,true,1005494194,true,7/10/2013 18:24:01,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 18:40:20,true,1005510751,true,7/10/2013 18:36:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 18:42:29,true,1005513468,true,7/10/2013 18:41:36,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 18:43:49,true,1005515299,true,7/10/2013 18:42:52,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 18:53:27,true,1005527159,true,7/10/2013 18:52:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 19:06:32,true,1005542662,true,7/10/2013 18:56:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 19:07:13,true,1005543643,true,7/10/2013 18:56:46,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 19:10:37,true,1005547213,true,7/10/2013 19:09:47,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 19:10:54,true,1005547526,true,7/10/2013 19:09:49,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 19:17:27,true,1005553957,true,7/10/2013 19:16:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171295,7/10/2013 20:25:55,true,1005626137,true,7/10/2013 20:24:23,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2759,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2579,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",2759:Daily 9.30am-12pm 12-1.30pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm"
+301171296,7/10/2013 18:35:20,false,1005504711,,7/10/2013 18:33:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2760,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,,breakfast: before 9am,breakfast: before 9am,breakfast: before 9am,,,2760:Daily 6-10am,,,,,,
+301171296,7/10/2013 19:15:19,false,1005552289,,7/10/2013 19:14:11,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2760,"breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon",,,2760:Daily 6-10am,,,,,,
+301171297,7/10/2013 18:33:59,false,1005503159,,7/10/2013 18:32:44,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2761,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2761:Daily 9-11.30am,,,,,,
+301171297,7/10/2013 19:11:16,false,1005547833,,7/10/2013 19:09:42,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2761,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2761:Daily 9-11.30am,,,,,,
+301171298,7/10/2013 18:48:30,false,1005521153,,7/10/2013 18:46:42,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2762,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2762:Daily 9-10am,,,,,,
+301171298,7/10/2013 19:15:42,false,1005552629,,7/10/2013 19:14:37,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2762,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2762:Daily 9-10am,,,,,,
+301171299,7/10/2013 18:35:20,false,1005504707,,7/10/2013 18:33:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2763,,,,,,dinnertime: 6pm onwards,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2763:Tuesday 7-9pm, Wednesday 1-3pm",,,,,,
+301171299,7/10/2013 18:35:58,false,1005505414,,7/10/2013 18:34:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2763,,,,,,dinnertime: 6pm onwards,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2763:Tuesday 7-9pm, Wednesday 1-3pm",,,,,,
+301171300,7/10/2013 18:53:27,false,1005527175,,7/10/2013 18:52:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2764,dinnertime: 6pm onwards,,,,,,,,,2764:1st and 3rd Friday 8pm,,,,,,
+301171300,7/10/2013 18:56:03,false,1005530351,,7/10/2013 18:54:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2764,dinnertime: 6pm onwards,,,,,,,,,2764:1st and 3rd Friday 8pm,,,,,,
+301171301,7/10/2013 18:51:54,false,1005525240,,7/10/2013 18:50:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2765,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,2765:Anytime,,,,,,
+301171301,7/10/2013 19:21:00,false,1005557711,,7/10/2013 19:20:06,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2765,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,2765:Anytime,,,,,,
+301171302,7/10/2013 19:04:30,false,1005540431,,7/10/2013 19:03:30,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2766,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,"2766:Daily 9.30am, 11.30am",,,,,,
+301171302,7/10/2013 19:20:02,false,1005556643,,7/10/2013 19:16:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2766,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,"2766:Daily 9.30am, 11.30am",,,,,,
+301171303,7/10/2013 18:28:44,false,1005496145,,7/10/2013 18:27:31,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2768,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2768:Tuesday-Saturday 12.30-1.30pm,,,,,,
+301171303,7/10/2013 18:41:56,false,1005512682,,7/10/2013 18:40:52,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2768,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2768:Tuesday-Saturday 12.30-1.30pm,,,,,,
+301171304,7/10/2013 18:39:14,false,1005509356,,7/10/2013 18:37:38,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2769,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2769:Tuesday-Thursday 12-4pm,,,,,,
+301171304,7/10/2013 18:41:46,false,1005512462,,7/10/2013 18:40:48,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2769,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2769:Tuesday-Thursday 12-4pm,,,,,,
+301171305,7/10/2013 19:10:54,false,1005547518,,7/10/2013 19:09:49,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2770,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2770:Daily 8-10am, 12-1pm",,,,,,
+301171305,7/10/2013 20:30:27,false,1005631018,,7/10/2013 20:28:47,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2770,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2770:Daily 8-10am, 12-1pm",,,,,,
+301171306,7/10/2013 19:11:16,false,1005547827,,7/10/2013 19:09:42,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2771,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2771:12-3pm,,,,,,
+301171306,7/10/2013 19:17:27,false,1005553953,,7/10/2013 19:16:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2771,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2771:12-3pm,,,,,,
+301171307,7/10/2013 18:43:49,false,1005515301,,7/10/2013 18:42:52,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2772,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2772:Daily 5.30pm,,,,,,
+301171307,7/10/2013 18:53:29,false,1005527190,,7/10/2013 18:52:06,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2772,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2772:Daily 5.30pm,,,,,,
+301171308,7/10/2013 19:20:52,false,1005557513,,7/10/2013 19:19:41,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2773,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,2773:Monday 10am-1pm,,,,,,
+301171308,7/10/2013 19:22:52,false,1005559884,,7/10/2013 19:21:04,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2773,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,2773:Monday 10am-1pm,,,,,,
+301171309,7/10/2013 19:02:11,false,1005537884,,7/10/2013 19:01:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2774,,,,afternoon: 2pm - 6pm,,,morning: 9am - 12 noon,,,"2774:Wednesday 10am-12pm, Sunday 2-4pm",,,,,,
+301171309,7/10/2013 19:17:27,false,1005553954,,7/10/2013 19:16:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2774,,,,afternoon: 2pm - 6pm,,,morning: 9am - 12 noon,,,"2774:Wednesday 10am-12pm, Sunday 2-4pm",,,,,,
+301171310,7/10/2013 19:06:32,false,1005542690,,7/10/2013 18:56:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2775,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2775:Daily 12.30-2.15pm,,,,,,
+301171310,7/10/2013 19:14:00,false,1005550473,,7/10/2013 19:12:15,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2775,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2775:Daily 12.30-2.15pm,,,,,,
+301171311,7/10/2013 18:56:03,false,1005530346,,7/10/2013 18:54:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2777,,,,,dinnertime: 6pm onwards,,dinnertime: 6pm onwards,,,2777:Wednesday and Thursday 8.15 pm,,,,,,
+301171311,7/10/2013 19:19:37,false,1005556264,,7/10/2013 19:18:54,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2777,,,,,dinnertime: 6pm onwards,,dinnertime: 6pm onwards,,,2777:Wednesday and Thursday 8.15 pm,,,,,,
+301171312,7/10/2013 18:51:00,false,1005524178,,7/10/2013 18:49:48,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2778,,,afternoon: 2pm - 6pm,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,,2778:Saturday 2-4pm and Sunday1.15-3.15 pm,,,,,,
+301171312,7/10/2013 19:15:19,false,1005552287,,7/10/2013 19:14:11,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2778,,,afternoon: 2pm - 6pm,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,,2778:Saturday 2-4pm and Sunday1.15-3.15 pm,,,,,,
+301171313,7/10/2013 18:49:52,false,1005522768,,7/10/2013 18:47:00,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2779,,breakfast: before 9am,,breakfast: before 9am,,,,,,2779:Monday and Sunday 8.30am,,,,,,
+301171313,7/10/2013 19:02:11,false,1005537882,,7/10/2013 19:01:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2779,,breakfast: before 9am,,breakfast: before 9am,,,,,,2779:Monday and Sunday 8.30am,,,,,,
+301171314,7/10/2013 18:58:42,false,1005533485,,7/10/2013 18:57:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2780,,,,,dinnertime: 6pm onwards,,dinnertime: 6pm onwards,,,2780:Wednesday and Thursday  9.45pm,,,,,,
+301171314,7/10/2013 19:12:13,false,1005548571,,7/10/2013 19:11:12,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2780,,,,,dinnertime: 6pm onwards,,dinnertime: 6pm onwards,,,2780:Wednesday and Thursday  9.45pm,,,,,,
+301171315,7/10/2013 18:36:57,false,1005506687,,7/10/2013 18:36:00,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2781,,breakfast: before 9am,,,,,,,,2781:Monday 7.15am,,,,,,
+301171315,7/10/2013 19:20:02,false,1005556645,,7/10/2013 19:16:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2781,,breakfast: before 9am,,,,,,,,2781:Monday 7.15am,,,,,,
+301171316,7/10/2013 18:43:33,false,1005514950,,7/10/2013 18:42:00,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2783,,,,,,,dinnertime: 6pm onwards,,,2783:Wednesday 8pm,,,,,,
+301171316,7/10/2013 18:44:47,false,1005516579,,7/10/2013 18:44:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2783,,,,,,,dinnertime: 6pm onwards,,,2783:Wednesday 8pm,,,,,,
+301171317,7/10/2013 18:48:19,false,1005520986,,7/10/2013 18:46:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2784,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2784:12.30-1.30pm,,,,,,
+301171317,7/10/2013 19:23:59,false,1005560852,,7/10/2013 19:22:55,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2784,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2784:12.30-1.30pm,,,,,,
+301171318,7/10/2013 18:41:46,false,1005512464,,7/10/2013 18:40:48,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2785,,dinnertime: 6pm onwards,,,,,,,,2785:Monday 9-10pm,,,,,,
+301171318,7/10/2013 18:45:16,false,1005517351,,7/10/2013 18:43:39,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2785,,morning: 9am - 12 noon,,,,,,,,2785:Monday 9-10pm,,,,,,
+301171319,7/10/2013 18:26:34,false,1005493567,,7/10/2013 18:25:32,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2786,,,,,,dinnertime: 6pm onwards,,,,2786:Tuesday 9-10pm,,,,,,
+301171319,7/10/2013 18:33:59,false,1005503183,,7/10/2013 18:32:44,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2786,,,,,,dinnertime: 6pm onwards,,,,2786:Tuesday 9-10pm,,,,,,
+301171320,7/10/2013 18:49:51,false,1005522760,,7/10/2013 18:47:00,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2787,,,,,,,dinnertime: 6pm onwards,,,2787:Wednesday 9-10pm,,,,,,
+301171320,7/10/2013 20:28:27,false,1005628888,,7/10/2013 20:26:33,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2787,,,,,,,morning: 9am - 12 noon,,,2787:Wednesday 9-10pm,,,,,,
+301171321,7/10/2013 18:42:53,false,1005514044,,7/10/2013 18:41:50,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2788,,,,,dinnertime: 6pm onwards,,,,,2788:Thursday 9-10pm,,,,,,
+301171321,7/10/2013 19:08:18,false,1005544739,,7/10/2013 19:07:30,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2788,,,,,dinnertime: 6pm onwards,,,,,2788:Thursday 9-10pm,,,,,,
+301171322,7/10/2013 18:30:28,false,1005498267,,7/10/2013 18:28:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2789,,,dinnertime: 6pm onwards,,,,,,,2789:Saturday 9-10pm,,,,,,
+301171322,7/10/2013 19:21:40,false,1005558581,,7/10/2013 19:20:55,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2789,,,dinnertime: 6pm onwards,,,,,,,2789:Saturday 9-10pm,,,,,,
+301171323,7/10/2013 18:46:55,false,1005519460,,7/10/2013 18:45:21,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2790,"breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon",,,2790:Daily 8am-12pm,,,,,,
+301171323,7/10/2013 18:49:36,false,1005522473,,7/10/2013 18:48:31,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2790,"breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon","breakfast: before 9am
+morning: 9am - 12 noon",,,2790:Daily 8am-12pm,,,,,,
+301171324,7/10/2013 19:19:37,false,1005556260,,7/10/2013 19:18:54,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2793,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,2793:Monday-Friday 10am-12.30pm,,,,,,
+301171324,7/10/2013 19:22:52,false,1005559879,,7/10/2013 19:21:04,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2793,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2793:Monday-Friday 10am-12.30pm,,,,,,
+301171325,7/10/2013 18:38:46,false,1005508958,,7/10/2013 18:37:04,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2794,,dinnertime: 6pm onwards,,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2794:Sunday-Thursday 7.45pm,,,,,,
+301171325,7/10/2013 19:22:52,false,1005559880,,7/10/2013 19:21:04,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2794,,dinnertime: 6pm onwards,,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2794:Sunday-Thursday 7.45pm,,,,,,
+301171326,7/10/2013 18:28:44,false,1005496146,,7/10/2013 18:27:31,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2795,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2795:1pm,,,,,,
+301171326,7/10/2013 18:38:46,false,1005508945,,7/10/2013 18:37:04,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2795,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2795:1pm,,,,,,
+301171327,7/10/2013 19:13:59,false,1005550475,,7/10/2013 19:12:15,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2796,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2796:12noon,,,,,,
+301171327,7/10/2013 19:15:42,false,1005552620,,7/10/2013 19:14:37,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2796,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2796:12noon,,,,,,
+301171328,7/10/2013 18:45:16,false,1005517352,,7/10/2013 18:43:39,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2798,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2798:Daily 1.30pm,,,,,,
+301171328,7/10/2013 19:15:20,false,1005552294,,7/10/2013 19:14:11,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2798,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2798:Daily 1.30pm,,,,,,
+301171329,7/10/2013 18:33:59,false,1005503163,,7/10/2013 18:32:44,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2799,,,,,,afternoon: 2pm - 6pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2799:Tuesday 2-4pm and Wednesday 10am-12.30pm ,,,,,,
+301171329,7/10/2013 18:37:33,false,1005507464,,7/10/2013 18:35:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2799,,,,,,afternoon: 2pm - 6pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2799:Tuesday 2-4pm and Wednesday 10am-12.30pm ,,,,,,
+301171330,7/10/2013 18:46:38,false,1005519001,,7/10/2013 18:45:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2800,morning: 9am - 12 noon,,,,dinnertime: 6pm onwards,,,,,2800:Thursday 8-10pm Friday 9am-12pm,,,,,,
+301171330,7/10/2013 18:53:30,false,1005527196,,7/10/2013 18:52:06,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2800,morning: 9am - 12 noon,,,,dinnertime: 6pm onwards,,,,,2800:Thursday 8-10pm Friday 9am-12pm,,,,,,
+301171331,7/10/2013 18:49:43,false,1005522595,,7/10/2013 18:48:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2802,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2802:Daily 10am-2pm,,,,,,
+301171331,7/10/2013 19:10:54,false,1005547523,,7/10/2013 19:09:49,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2802,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2802:Daily 10am-2pm,,,,,,
+301171332,7/10/2013 18:38:46,false,1005508946,,7/10/2013 18:37:04,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2803,,,,lunchtime: 12 noon - 2pm,,,,,,2803:Sunday 1pm,,,,,,
+301171332,7/10/2013 19:16:43,false,1005553352,,7/10/2013 19:15:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2803,,,,lunchtime: 12 noon - 2pm,,,,,,2803:Sunday 1pm,,,,,,
+301171333,7/10/2013 18:36:56,false,1005506646,,7/10/2013 18:36:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2804,,,,,,,lunchtime: 12 noon - 2pm,,,2804:Wednesday 1pm,,,,,,
+301171333,7/10/2013 18:43:49,false,1005515300,,7/10/2013 18:42:52,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2804,,,,,,,lunchtime: 12 noon - 2pm,,,2804:Wednesday 1pm,,,,,,
+301171334,7/10/2013 18:35:20,false,1005504709,,7/10/2013 18:33:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2805,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2805:Monday-Saturday 12pm,,,,,,
+301171334,7/10/2013 18:50:34,false,1005523566,,7/10/2013 18:49:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2805,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2805:Monday-Saturday 12pm,,,,,,
+301171335,7/10/2013 19:07:40,false,1005544073,,7/10/2013 19:06:02,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2806,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2806:Monday-Saturday 1pm,,,,,,
+301171335,7/10/2013 19:16:03,false,1005552970,,7/10/2013 19:15:23,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2806,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2806:Monday-Saturday 1pm,,,,,,
+301171336,7/10/2013 18:54:55,false,1005528898,,7/10/2013 18:53:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2807,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2807:Monday-Saturday 2pm,,,,,,
+301171336,7/10/2013 19:18:52,false,1005555330,,7/10/2013 19:18:07,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2807,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2807:Monday-Saturday 2pm,,,,,,
+301171337,7/10/2013 18:45:53,false,1005518100,,7/10/2013 18:42:57,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2808,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,2808:Saturday 10.30am-1.30pm,,,,,,
+301171337,7/10/2013 19:19:37,false,1005556258,,7/10/2013 19:18:54,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2808,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,2808:Saturday 10.30am-1.30pm,,,,,,
+301171338,7/10/2013 19:08:18,false,1005544743,,7/10/2013 19:07:30,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2809,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2809:Daily 1.30 pm,,,,,,
+301171338,7/10/2013 19:23:59,false,1005560848,,7/10/2013 19:22:55,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2809,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2809:Daily 1.30 pm,,,,,,
+301171339,7/10/2013 18:52:36,false,1005526037,,7/10/2013 18:51:57,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2810,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2810:Monday-Saturday 12.30-2pm,,,,,,
+301171339,7/10/2013 19:27:12,false,1005564844,,7/10/2013 19:24:05,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2810,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2810:Monday-Saturday 12.30-2pm,,,,,,
+301171340,7/10/2013 18:36:56,false,1005506642,,7/10/2013 18:36:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2811,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2811:Monday-Saturday 12.30-2pm,,,,,,
+301171340,7/10/2013 18:48:30,false,1005521151,,7/10/2013 18:46:42,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2811,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2811:Monday-Saturday 12.30-2pm,,,,,,
+301171341,7/10/2013 19:11:16,false,1005547826,,7/10/2013 19:09:42,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2812,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2812:Monday-Saturday 12pm,,,,,,
+301171341,7/10/2013 19:20:52,false,1005557514,,7/10/2013 19:19:41,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2812,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2812:Monday-Saturday 12pm,,,,,,
+301171342,7/10/2013 18:35:58,false,1005505413,,7/10/2013 18:34:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2813,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2813:Monday-Saturday 1pm,,,,,,
+301171342,7/10/2013 18:45:51,false,1005518031,,7/10/2013 18:44:50,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2813,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2813:Monday-Saturday 1pm,,,,,,
+301171343,7/10/2013 18:57:17,false,1005531695,,7/10/2013 18:56:10,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2814,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2814:Monday-Saturday 2.15pm,,,,,,
+301171343,7/10/2013 19:09:48,false,1005546335,,7/10/2013 19:08:21,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2814,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,2814:Monday-Saturday 2.15pm,,,,,,
+301171344,7/10/2013 18:43:49,false,1005515304,,7/10/2013 18:42:52,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2815,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2815:Daily 1pm,,,,,,
+301171344,7/10/2013 19:04:30,false,1005540401,,7/10/2013 19:03:30,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2815,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,2815:Daily 1pm,,,,,,
+301171345,7/10/2013 18:48:19,false,1005520988,,7/10/2013 18:46:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2818,,,,breakfast: before 9am,,,lunchtime: 12 noon - 2pm,,,"2818:Wednesday 12pm, Sunday 8am",,,,,,
+301171345,7/10/2013 18:52:36,false,1005526035,,7/10/2013 18:51:57,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2818,,,,breakfast: before 9am,,,lunchtime: 12 noon - 2pm,,,"2818:Wednesday 12pm, Sunday 8am",,,,,,
+301171346,7/10/2013 18:48:30,false,1005521155,,7/10/2013 18:46:42,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2819,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2819:Daily 10am-1pm,,,,,,
+301171346,7/10/2013 18:51:00,false,1005524179,,7/10/2013 18:49:48,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2819,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2819:Daily 10am-1pm,,,,,,
+301171347,7/10/2013 18:46:38,false,1005519003,,7/10/2013 18:45:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2820,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,,,afternoon: 2pm - 6pm,,,"2820:Monday, Wednesday, Friday 2-3pm, Sunday 3-4pm",,,,,,
+301171347,7/10/2013 19:27:12,false,1005564846,,7/10/2013 19:24:05,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2820,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,,,afternoon: 2pm - 6pm,,,"2820:Monday, Wednesday, Friday 2-3pm, Sunday 3-4pm",,,,,,
+301171348,7/10/2013 18:28:44,false,1005496142,,7/10/2013 18:27:31,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2821,,dinnertime: 6pm onwards,,,,,,,,2821:Monday 9pm,,,,,,
+301171348,7/10/2013 18:42:29,false,1005513472,,7/10/2013 18:41:36,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2821,,dinnertime: 6pm onwards,,,,,,,,2821:Monday 9pm,,,,,,
+301171349,7/10/2013 19:12:13,false,1005548570,,7/10/2013 19:11:12,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2822,,dinnertime: 6pm onwards,,,,,,,,2822:Monday 9pm,,,,,,
+301171349,7/10/2013 19:14:36,false,1005551326,,7/10/2013 19:12:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2822,,dinnertime: 6pm onwards,,,,,,,,2822:Monday 9pm,,,,,,
+301171350,7/10/2013 18:51:54,false,1005525243,,7/10/2013 18:50:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2823,,,,,,dinnertime: 6pm onwards,,,,2823:Tuesday 7.30-9pm,,,,,,
+301171350,7/10/2013 19:27:12,false,1005564847,,7/10/2013 19:24:05,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2823,,,,,,dinnertime: 6pm onwards,,,,2823:Tuesday 7.30-9pm,,,,,,
+301171351,7/10/2013 19:15:42,false,1005552609,,7/10/2013 19:14:37,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2824,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2824:Monday-Sunday 9.30pm ,,,,,,
+301171351,7/10/2013 20:30:26,false,1005630983,,7/10/2013 20:28:47,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2824,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2824:Monday-Sunday 9.30pm ,,,,,,
+301171352,7/10/2013 18:33:24,false,1005502320,,7/10/2013 18:31:32,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2825,,,,dinnertime: 6pm onwards,,,,,,2825:Sunday 6.30pm,,,,,,
+301171352,7/10/2013 18:36:56,false,1005506641,,7/10/2013 18:36:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2825,,,,dinnertime: 6pm onwards,,,,,,2825:Sunday 6.30pm,,,,,,
+301171353,7/10/2013 18:51:54,false,1005525242,,7/10/2013 18:50:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2826,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,,"2826:Monday and Friday 1-3pm, Tuesday-Thursday soup 2-3pm",,,,,,
+301171353,7/10/2013 19:03:28,false,1005539236,,7/10/2013 19:02:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2826,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,"2826:Monday and Friday 1-3pm, Tuesday-Thursday soup 2-3pm",,,,,,
+301171354,7/10/2013 18:57:17,false,1005531697,,7/10/2013 18:56:10,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2827,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2827:Daily 9am,,,,,,
+301171354,7/10/2013 19:14:02,false,1005550674,,7/10/2013 19:13:18,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2727,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,morning: 9am - 12 noon,,,2827:Daily 9am,,,,,,
+301171355,7/10/2013 18:40:20,false,1005510743,,7/10/2013 18:36:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2829,,,,dinnertime: 6pm onwards,,,,,,2829:Sunday 7pm,,,,,,
+301171355,7/10/2013 18:49:43,false,1005522591,,7/10/2013 18:48:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2829,,,,dinnertime: 6pm onwards,,,,,,2829:Sunday 7pm,,,,,,
+301171356,7/10/2013 18:32:37,false,1005501193,,7/10/2013 18:30:38,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2830,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,"2830:Monday-Wednesday and Friday 4pm, Sunday 3pm",,,,,,
+301171356,7/10/2013 19:20:53,false,1005557516,,7/10/2013 19:19:41,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2830,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,,afternoon: 2pm - 6pm,afternoon: 2pm - 6pm,,,"2830:Monday-Wednesday and Friday 4pm, Sunday 3pm",,,,,,
+301171357,7/10/2013 19:01:13,false,1005536637,,7/10/2013 19:00:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2831,morning: 9am - 12 noon,morning: 9am - 12 noon,,afternoon: 2pm - 6pm,,morning: 9am - 12 noon,morning: 9am - 12 noon,,,"2831:Monday-Wednesday and Friday 10.30am, Sunday 3pm,",,,,,,
+301171357,7/10/2013 19:22:52,false,1005559882,,7/10/2013 19:21:04,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2831,morning: 9am - 12 noon,morning: 9am - 12 noon,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,morning: 9am - 12 noon,morning: 9am - 12 noon,,,"2831:Monday-Wednesday and Friday 10.30am, Sunday 3pm,",,,,,,
+301171358,7/10/2013 18:33:59,false,1005503165,,7/10/2013 18:32:44,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2832,,,afternoon: 2pm - 6pm,,,,,,,2832:Saturday 5.30am,,,,,,
+301171358,7/10/2013 18:41:56,false,1005512677,,7/10/2013 18:40:52,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2832,,,breakfast: before 9am,,,,,,,2832:Saturday 5.30am,,,,,,
+301171359,7/10/2013 19:08:36,false,1005544964,,7/10/2013 19:07:44,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2833,,,breakfast: before 9am,,,,,,,2833:Saturday 6.10am,,,,,,
+301171359,7/10/2013 19:14:36,false,1005551331,,7/10/2013 19:12:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2833,,,breakfast: before 9am,,,,,,,2833:Saturday 6.10am,,,,,,
+301171360,7/10/2013 18:39:14,false,1005509359,,7/10/2013 18:37:38,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2834,,,breakfast: before 9am,,,,,,,2834:Saturday 6.40am,,,,,,
+301171360,7/10/2013 19:06:32,false,1005542641,,7/10/2013 18:56:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2834,,,dinnertime: 6pm onwards,,,,,,,2834:Saturday 6.40am,,,,,,
+301171361,7/10/2013 18:46:59,false,1005519491,,7/10/2013 18:45:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2835,,,breakfast: before 9am,,,,,,,2835:Saturday 7.30am,,,,,,
+301171361,7/10/2013 19:01:13,false,1005536617,,7/10/2013 19:00:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2835,,,breakfast: before 9am,,,,,,,2835:Saturday 7.30am,,,,,,
+301171362,7/10/2013 19:10:37,false,1005547216,,7/10/2013 19:09:47,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2836,dinnertime: 6pm onwards,,,,,dinnertime: 6pm onwards,,,,2836:Tuesday and Fridays 9pm,,,,,,
+301171362,7/10/2013 19:21:00,false,1005557712,,7/10/2013 19:20:06,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2836,,,,,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,,2836:Tuesday and Fridays 9pm,,,,,,
+301171363,7/10/2013 18:46:55,false,1005519457,,7/10/2013 18:45:21,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2838,,dinnertime: 6pm onwards,,,,,,,,2838:Monday 9pm,,,,,,
+301171363,7/10/2013 18:56:48,false,1005531084,,7/10/2013 18:49:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2838,,dinnertime: 6pm onwards,,,,,,,,2838:Monday 9pm,,,,,,
+301171364,7/10/2013 18:52:36,false,1005526039,,7/10/2013 18:51:57,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2839,,,,,,dinnertime: 6pm onwards,,,,2839:Tuesday 8pm,,,,,,
+301171364,7/10/2013 19:02:11,false,1005537887,,7/10/2013 19:01:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2839,,,,,,dinnertime: 6pm onwards,,,,2839:Tuesday 8pm,,,,,,
+301171365,7/10/2013 19:03:28,false,1005539239,,7/10/2013 19:02:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2840,,,,,,,dinnertime: 6pm onwards,,,2840:Wednesday 7pm,,,,,,
+301171365,7/10/2013 19:17:27,false,1005553947,,7/10/2013 19:16:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2840,,,,,,,dinnertime: 6pm onwards,,,2840:Wednesday 7pm,,,,,,
+301171366,7/10/2013 18:28:44,false,1005496149,,7/10/2013 18:27:31,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2841,,,,,,,dinnertime: 6pm onwards,,,2841:Wednesday 7.30-8.30pm,,,,,,
+301171366,7/10/2013 19:04:30,false,1005540411,,7/10/2013 19:03:30,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2841,,,,,,,dinnertime: 6pm onwards,,,2841:Wednesday 7.30-8.30pm,,,,,,
+301171367,7/10/2013 18:54:55,false,1005528900,,7/10/2013 18:53:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2842,,,,,,,dinnertime: 6pm onwards,,,2842:Wednesday 8pm,,,,,,
+301171367,7/10/2013 19:14:02,false,1005550673,,7/10/2013 19:13:18,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2842,,,,,,,dinnertime: 6pm onwards,,,2842:Wednesday 8pm,,,,,,
+301171368,7/10/2013 19:20:02,false,1005556634,,7/10/2013 19:16:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2844,dinnertime: 6pm onwards,,,,,,,,,2844:Friday 7pm,,,,,,
+301171368,7/10/2013 20:28:27,false,1005628887,,7/10/2013 20:26:33,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2844,dinnertime: 6pm onwards,,,,,,,,,2844:Friday 7pm,,,,,,
+301171369,7/10/2013 18:42:53,false,1005514045,,7/10/2013 18:41:50,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2845,,,,,dinnertime: 6pm onwards,,,,,2845:Thursday 8.45-11pm and 8.50-11pm,,,,,,
+301171369,7/10/2013 18:56:03,false,1005530349,,7/10/2013 18:54:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2845,,,,,dinnertime: 6pm onwards,,,,,2845:Thursday 8.45-11pm and 8.50-11pm,,,,,,
+301171370,7/10/2013 19:10:54,false,1005547515,,7/10/2013 19:09:49,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2846,,,afternoon: 2pm - 6pm,,,,,,,2846:Saturday 5.30-6pm ,,,,,,
+301171370,7/10/2013 19:16:03,false,1005552984,,7/10/2013 19:15:23,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2846,,,afternoon: 2pm - 6pm,,,,,,,2846:Saturday 5.30-6pm ,,,,,,
+301171371,7/10/2013 18:56:48,false,1005531083,,7/10/2013 18:49:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2847,,,dinnertime: 6pm onwards,,,,,,,2847:Saturday 7.30pm,,,,,,
+301171371,7/10/2013 18:58:42,false,1005533467,,7/10/2013 18:57:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2847,,,dinnertime: 6pm onwards,,,,,,,2847:Saturday 7.30pm,,,,,,
+301171372,7/10/2013 18:26:34,false,1005493570,,7/10/2013 18:25:32,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2848,,,,dinnertime: 6pm onwards,,,,,,2848:Sunday 6pm,,,,,,
+301171372,7/10/2013 18:51:00,false,1005524177,,7/10/2013 18:49:48,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2848,,,,dinnertime: 6pm onwards,,,,,,2848:Sunday 6pm,,,,,,
+301171373,7/10/2013 19:01:13,false,1005536622,,7/10/2013 19:00:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2849,dinnertime: 6pm onwards,,,,,,,,,2849:Friday 7.30pm,,,,,,
+301171373,7/10/2013 19:16:03,false,1005552979,,7/10/2013 19:15:23,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2849,dinnertime: 6pm onwards,,,,,,,,,2849:Friday 7.30pm,,,,,,
+301171374,7/10/2013 18:41:33,false,1005512137,,7/10/2013 18:38:49,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2850,,,,,,,dinnertime: 6pm onwards,,,2850:Wednesday 9pm,,,,,,
+301171374,7/10/2013 19:09:39,false,1005546119,,7/10/2013 19:08:41,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2850,,,,,,,dinnertime: 6pm onwards,,,2850:Wednesday 9pm,,,,,,
+301171375,7/10/2013 18:54:55,false,1005528902,,7/10/2013 18:53:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2851,,,,,dinnertime: 6pm onwards,,,,,2851:Thursday 7pm,,,,,,
+301171375,7/10/2013 19:10:37,false,1005547212,,7/10/2013 19:09:47,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2851,,,,,dinnertime: 6pm onwards,,,,,2851:Thursday 7pm,,,,,,
+301171376,7/10/2013 19:18:51,false,1005555326,,7/10/2013 19:18:07,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2852,,,,,dinnertime: 6pm onwards,,,,,2852:Thursday 7pm,,,,,,
+301171376,7/10/2013 19:23:59,false,1005560846,,7/10/2013 19:22:55,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2852,,,,,dinnertime: 6pm onwards,,,,,2852:Thursday 7pm,,,,,,
+301171377,7/10/2013 18:46:59,false,1005519490,,7/10/2013 18:45:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2853,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2853:Monday-Sunday 9.30pm,,,,,,
+301171377,7/10/2013 19:06:00,false,1005541916,,7/10/2013 19:04:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2853,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2853:Monday-Sunday 9.30pm,,,,,,
+301171378,7/10/2013 18:37:33,false,1005507466,,7/10/2013 18:35:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2854,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2854:Daily 1-2pm and 3.30-4.30pm, food parcels every other Thursday",,,,,,
+301171378,7/10/2013 18:51:54,false,1005525244,,7/10/2013 18:50:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2854,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2854:Daily 1-2pm and 3.30-4.30pm, food parcels every other Thursday",,,,,,
+301171379,7/10/2013 18:49:44,false,1005522593,,7/10/2013 18:48:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2855,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2855:Daily 9-9.30 and 1-2pm, ad hoc food parcels",,,,,,
+301171379,7/10/2013 18:49:52,false,1005522770,,7/10/2013 18:47:00,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2855,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2855:Daily 9-9.30 and 1-2pm, ad hoc food parcels",,,,,,
+301171380,7/10/2013 18:49:36,false,1005522478,,7/10/2013 18:48:31,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2856,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2856:DAILY 9am, 11am, 1pm, 3.30pm and 5.30pm",,,,,,
+301171380,7/10/2013 19:14:00,false,1005550466,,7/10/2013 19:12:15,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2856,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"2856:DAILY 9am, 11am, 1pm, 3.30pm and 5.30pm",,,,,,
+301171381,7/10/2013 18:36:57,false,1005506683,,7/10/2013 18:36:00,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2858,dinnertime: 6pm onwards,,,,,,,,,2858:Every other Friday 7pm,,,,,,
+301171381,7/10/2013 18:45:53,false,1005518101,,7/10/2013 18:42:57,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2858,,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,dinnertime: 6pm onwards,,,2858:Every other Friday 7pm,,,,,,
+301171382,7/10/2013 18:52:01,false,1005525409,,7/10/2013 18:51:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2861,,dinnertime: 6pm onwards,,,,,,,,2861:Monday 7-9pm,,,,,,
+301171382,7/10/2013 19:08:18,false,1005544749,,7/10/2013 19:07:30,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2861,,dinnertime: 6pm onwards,,,,,,,,2861:Monday 7-9pm,,,,,,
+301171383,7/10/2013 18:23:49,true,1005491203,,7/10/2013 18:20:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:27:05,true,1005494198,,7/10/2013 18:24:01,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2862,,,,,,,,2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:28:44,true,1005496147,,7/10/2013 18:27:31,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:32:37,true,1005501188,,7/10/2013 18:30:38,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:36:56,true,1005506639,,7/10/2013 18:36:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:40:48,true,1005511197,,7/10/2013 18:39:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:51:54,true,1005525241,,7/10/2013 18:50:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 18:52:36,true,1005526038,,7/10/2013 18:51:57,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 19:04:30,true,1005540445,,7/10/2013 19:03:30,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 19:21:00,true,1005557714,,7/10/2013 19:20:06,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 19:23:59,true,1005560850,,7/10/2013 19:22:55,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2862,,,,,,"breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards","breakfast: before 9am
+morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",2862,,2862:Tuesday and Wednesday,,,,,,
+301171383,7/10/2013 20:24:23,true,1005624368,,7/10/2013 20:19:54,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2862,,,,,,,,2862,,2862:Tuesday and Wednesday,,,,,,
+301171384,7/10/2013 18:58:42,false,1005533478,,7/10/2013 18:57:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2863,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2863:Monday-Saturday 11am-2pm,,,,,,
+301171384,7/10/2013 19:16:43,false,1005553357,,7/10/2013 19:15:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2863,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2863:Monday-Saturday 11am-2pm,,,,,,
+301171385,7/10/2013 18:41:33,false,1005512158,,7/10/2013 18:38:49,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2864,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,2864:Thursday-Friday 11.30am-2pm,,,,,,
+301171385,7/10/2013 19:07:40,false,1005544072,,7/10/2013 19:06:02,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2864,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,2864:Thursday-Friday 11.30am-2pm,,,,,,
+301171386,7/10/2013 18:45:53,false,1005518098,,7/10/2013 18:42:57,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2866,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,,,2866:Saturday 1.30-3pm,,,,,,
+301171386,7/10/2013 18:53:27,false,1005527158,,7/10/2013 18:52:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2866,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,,,2866:Saturday 1.30-3pm,,,,,,
+301171387,7/10/2013 18:48:19,false,1005520987,,7/10/2013 18:46:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2868,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,,,,,,2868:Mon 11.30am-8.30pm,,,,,,
+301171387,7/10/2013 19:08:18,false,1005544746,,7/10/2013 19:07:30,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2868,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,,,,,,2868:Mon 11.30am-8.30pm,,,,,,
+301171388,7/10/2013 18:51:00,false,1005524180,,7/10/2013 18:49:48,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2872,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,,"2872:Thursday and Friday 12pm, Sunday 1pm",,,,,,
+301171388,7/10/2013 19:16:43,false,1005553354,,7/10/2013 19:15:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2872,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,,"2872:Thursday and Friday 12pm, Sunday 1pm",,,,,,
+301171389,7/10/2013 18:59:59,false,1005535094,,7/10/2013 18:58:46,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2873,morning: 9am - 12 noon,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2873:Tuesday 11am-1pm,Friday 10am-12pm ",,,,,,
+301171389,7/10/2013 19:27:12,false,1005564845,,7/10/2013 19:24:05,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2873,morning: 9am - 12 noon,,,,,morning: 9am - 12 noon,,,,"2873:Tuesday 11am-1pm,Friday 10am-12pm ",,,,,,
+301171390,7/10/2013 18:39:14,false,1005509355,,7/10/2013 18:37:38,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2874,,afternoon: 2pm - 6pm,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"2874:Monday 2-4pm, Thursday 11am-1pm",,,,,,
+301171390,7/10/2013 18:46:59,false,1005519497,,7/10/2013 18:45:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2874,,afternoon: 2pm - 6pm,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"2874:Monday 2-4pm, Thursday 11am-1pm",,,,,,
+301171391,7/10/2013 18:36:57,false,1005506685,,7/10/2013 18:36:00,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2875,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2875:Wednesday and Saturday 11.30am-1pm,,,,,,
+301171391,7/10/2013 19:08:36,false,1005544962,,7/10/2013 19:07:44,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2875,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2875:Wednesday and Saturday 11.30am-1pm,,,,,,
+301171392,7/10/2013 18:46:55,false,1005519458,,7/10/2013 18:45:21,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2876,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2876:Tuesday 12-5pm, Sunday 10am-1pm",,,,,,
+301171392,7/10/2013 19:23:59,false,1005560847,,7/10/2013 19:22:55,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2876,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2876:Tuesday 12-5pm, Sunday 10am-1pm",,,,,,
+301171393,7/10/2013 18:40:20,false,1005510746,,7/10/2013 18:36:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2877,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,2877:Saturday 11am-1pm,,,,,,
+301171393,7/10/2013 18:48:19,false,1005520998,,7/10/2013 18:46:59,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2877,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,2877:Saturday 11am-1pm,,,,,,
+301171394,7/10/2013 19:06:32,false,1005542644,,7/10/2013 18:56:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2878,,afternoon: 2pm - 6pm,,,,,,,,"2878:Monday 4-6pm, ",,,,,,
+301171394,7/10/2013 19:11:16,false,1005547829,,7/10/2013 19:09:42,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2878,,afternoon: 2pm - 6pm,,,,,,,,"2878:Monday 4-6pm, ",,,,,,
+301171395,7/10/2013 18:33:24,false,1005502323,,7/10/2013 18:31:32,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2879,,,afternoon: 2pm - 6pm,,,,,,,2879:Saturday 2-5pm ,,,,,,
+301171395,7/10/2013 18:42:29,false,1005513465,,7/10/2013 18:41:36,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2879,,,afternoon: 2pm - 6pm,,,,,,,2879:Saturday 2-5pm ,,,,,,
+301171396,7/10/2013 18:38:46,false,1005508956,,7/10/2013 18:37:04,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2880,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2880:Monday 11am-1:45pm in Hoxton, Thursday 12:00pm-2:15pm in Stoke Newington",,,,,,
+301171396,7/10/2013 19:07:40,false,1005544075,,7/10/2013 19:06:02,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2880,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,"2880:Monday 11am-1:45pm in Hoxton, Thursday 12:00pm-2:15pm in Stoke Newington",,,,,,
+301171397,7/10/2013 18:30:28,false,1005498273,,7/10/2013 18:28:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2881,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2881:Tuesday 12-3pm, Friday 1-4",,,,,,
+301171397,7/10/2013 19:20:52,false,1005557508,,7/10/2013 19:19:41,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2881,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2881:Tuesday 12-3pm, Friday 1-4",,,,,,
+301171398,7/10/2013 18:57:17,false,1005531698,,7/10/2013 18:56:10,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2882,,,,,afternoon: 2pm - 6pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2882:Tuesday 10am-1pm, Thursday 2-5pm",,,,,,
+301171398,7/10/2013 19:07:13,false,1005543641,,7/10/2013 18:56:46,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2882,,,,,afternoon: 2pm - 6pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2882:Tuesday 10am-1pm, Thursday 2-5pm",,,,,,
+301171399,7/10/2013 18:37:33,false,1005507463,,7/10/2013 18:35:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2883,afternoon: 2pm - 6pm,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2883:Tuesday 10.30am-1pm Fridays 2-4.30pm,,,,,,
+301171399,7/10/2013 18:45:51,false,1005518032,,7/10/2013 18:44:50,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2883,,,,,afternoon: 2pm - 6pm,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2883:Tuesday 10.30am-1pm Fridays 2-4.30pm,,,,,,
+301171400,7/10/2013 19:00:02,false,1005535100,,7/10/2013 18:58:46,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2884,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2884:Thursday 1-3pm,,,,,,
+301171400,7/10/2013 19:12:13,false,1005548575,,7/10/2013 19:11:12,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2884,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2884:Thursday 1-3pm,,,,,,
+301171401,7/10/2013 19:00:01,false,1005535096,,7/10/2013 18:58:46,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2885,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2885:Tuesday and Friday 11-2,,,,,,
+301171401,7/10/2013 19:13:14,false,1005549640,,7/10/2013 19:12:16,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2885,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2885:Tuesday and Friday 11-2,,,,,,
+301171402,7/10/2013 18:40:48,false,1005511189,,7/10/2013 18:39:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2886,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,2886:Tuesday and Thursday 1-4pm,,,,,,
+301171402,7/10/2013 18:49:37,false,1005522479,,7/10/2013 18:48:31,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2886,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,2886:Tuesday and Thursday 1-4pm,,,,,,
+301171403,7/10/2013 18:59:59,false,1005535095,,7/10/2013 18:58:46,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2887,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2887:Friday 10am-1pm,,,,,,
+301171403,7/10/2013 19:10:37,false,1005547214,,7/10/2013 19:09:47,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2887,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2887:Friday 10am-1pm,,,,,,
+301171404,7/10/2013 18:32:37,false,1005501186,,7/10/2013 18:30:38,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2888,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2888:Friday 11am-2pm,,,,,,
+301171404,7/10/2013 19:09:39,false,1005546129,,7/10/2013 19:08:41,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2888,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2888:Friday 11am-2pm,,,,,,
+301171405,7/10/2013 18:40:48,false,1005511183,,7/10/2013 18:39:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2889,,,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2889:Wednesday 10am-2pm,,,,,,
+301171405,7/10/2013 18:42:29,false,1005513466,,7/10/2013 18:41:36,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2889,,,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2889:Wednesday 10am-2pm,,,,,,
+301171406,7/10/2013 18:42:53,false,1005514041,,7/10/2013 18:41:50,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2890,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,dinnertime: 6pm onwards,,,,"2890:Tuesday 6.30pm-9pm, Sunday 11.30am-1pm",,,,,,
+301171406,7/10/2013 18:44:47,false,1005516575,,7/10/2013 18:44:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2890,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,dinnertime: 6pm onwards,,,,"2890:Tuesday 6.30pm-9pm, Sunday 11.30am-1pm",,,,,,
+301171407,7/10/2013 18:42:53,false,1005514046,,7/10/2013 18:41:50,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2891,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2891:Tuesday 10am-1pm, Friday 10m-2pm",,,,,,
+301171407,7/10/2013 18:43:33,false,1005514951,,7/10/2013 18:42:00,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2891,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2891:Tuesday 10am-1pm, Friday 10m-2pm",,,,,,
+301171408,7/10/2013 18:35:58,false,1005505416,,7/10/2013 18:34:01,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2892,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2892:St Pauls Tuesday 10.30am-1pm, Saturday 11am-2pm",,,,,,
+301171408,7/10/2013 18:44:47,false,1005516569,,7/10/2013 18:44:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2892,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,"2892:St Pauls Tuesday 10.30am-1pm, Saturday 11am-2pm",,,,,,
+301171409,7/10/2013 18:30:28,false,1005498266,,7/10/2013 18:28:51,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2893,afternoon: 2pm - 6pm,,,,,,morning: 9am - 12 noon,,,"2893:Wednesday 10am-12pm, Friday 2-4pm",,,,,,
+301171409,7/10/2013 18:49:36,false,1005522470,,7/10/2013 18:48:31,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2893,afternoon: 2pm - 6pm,,,,,,morning: 9am - 12 noon,,,"2893:Wednesday 10am-12pm, Friday 2-4pm",,,,,,
+301171410,7/10/2013 18:49:43,false,1005522592,,7/10/2013 18:48:23,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2894,,,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,2894:Tuesday and Thursday 12-2pm,,,,,,
+301171410,7/10/2013 19:13:13,false,1005549645,,7/10/2013 19:12:16,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2894,,,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,2894:Tuesday and Thursday 12-2pm,,,,,,
+301171411,7/10/2013 19:03:28,false,1005539238,,7/10/2013 19:02:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2895,dinnertime: 6pm onwards,,,,,,,,,2895:Fridays 6.30-8.30pm,,,,,,
+301171411,7/10/2013 19:18:52,false,1005555329,,7/10/2013 19:18:07,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2895,dinnertime: 6pm onwards,,,,,,,,,2895:Fridays 6.30-8.30pm,,,,,,
+301171412,7/10/2013 19:01:13,false,1005536620,,7/10/2013 19:00:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2896,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,2896:Saturday 11am-2pm,,,,,,
+301171412,7/10/2013 19:18:51,false,1005555328,,7/10/2013 19:18:07,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2896,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,2896:Saturday 11am-2pm,,,,,,
+301171413,7/10/2013 19:03:28,false,1005539237,,7/10/2013 19:02:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2897,,,,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,2897:Wednesday 5-7pm,,,,,,
+301171413,7/10/2013 19:17:27,false,1005553946,,7/10/2013 19:16:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2897,,,,,,,"afternoon: 2pm - 6pm
+dinnertime: 6pm onwards",,,2897:Wednesday 5-7pm,,,,,,
+301171414,7/10/2013 19:09:39,false,1005546117,,7/10/2013 19:08:41,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2898,,afternoon: 2pm - 6pm,,,,,,,,2898:Monday 2-4pm,,,,,,
+301171414,7/10/2013 19:21:40,false,1005558583,,7/10/2013 19:20:55,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2898,,afternoon: 2pm - 6pm,,,,,,,,2898:Monday 2-4pm,,,,,,
+301171415,7/10/2013 18:44:47,false,1005516573,,7/10/2013 18:44:06,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2899,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2899:Friday 11am-2pm,,,,,,
+301171415,7/10/2013 19:09:39,false,1005546116,,7/10/2013 19:08:41,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2899,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2899:Friday 11am-2pm,,,,,,
+301171416,7/10/2013 18:26:34,false,1005493573,,7/10/2013 18:25:32,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2900,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,2900:Thursday 10.30am-2.30pm,,,,,,
+301171416,7/10/2013 18:41:46,false,1005512465,,7/10/2013 18:40:48,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2900,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2900:Thursday 10.30am-2.30pm,,,,,,
+301171417,7/10/2013 18:41:56,false,1005512679,,7/10/2013 18:40:52,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2901,,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2901:Tuesday 11am-2pm,,,,,,
+301171417,7/10/2013 18:56:48,false,1005531088,,7/10/2013 18:49:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2901,,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2901:Tuesday 11am-2pm,,,,,,
+301171418,7/10/2013 19:04:30,false,1005540391,,7/10/2013 19:03:30,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2902,,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,"2902:Monday, Tuesday, Thursday 12-2pm",,,,,,
+301171418,7/10/2013 19:21:40,false,1005558584,,7/10/2013 19:20:55,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2902,,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,"2902:Monday, Tuesday, Thursday 12-2pm",,,,,,
+301171419,7/10/2013 19:21:00,false,1005557705,,7/10/2013 19:20:06,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2903,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2903:Thursday 10am-6pm,,,,,,
+301171419,7/10/2013 20:28:27,false,1005628889,,7/10/2013 20:26:33,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2903,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2903:Thursday 10am-6pm,,,,,,
+301171420,7/10/2013 19:13:14,false,1005549646,,7/10/2013 19:12:16,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2904,dinnertime: 6pm onwards,,,,,,dinnertime: 6pm onwards,,,2904:Wednesday and Friday 7-9pm,,,,,,
+301171420,7/10/2013 19:15:42,false,1005552630,,7/10/2013 19:14:37,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2904,dinnertime: 6pm onwards,,,,,,dinnertime: 6pm onwards,,,2904:Wednesday and Friday 7-9pm,,,,,,
+301171421,7/10/2013 19:14:02,false,1005550678,,7/10/2013 19:13:18,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2905,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2905:Monday and Thursday 12.30-4pm,,,,,,
+301171421,7/10/2013 19:20:02,false,1005556644,,7/10/2013 19:16:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2905,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,2905:Monday and Thursday 12.30-4pm,,,,,,
+301171422,7/10/2013 18:35:20,false,1005504708,,7/10/2013 18:33:28,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2906,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,afternoon: 2pm - 6pm,,,"2906:Monday,Tuesday and Friday 12-1pm, Wednesday 2-5pm, Saturday 12-1pm",,,,,,
+301171422,7/10/2013 18:45:51,false,1005518029,,7/10/2013 18:44:50,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2906,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,lunchtime: 12 noon - 2pm,afternoon: 2pm - 6pm,,,"2906:Monday,Tuesday and Friday 12-1pm, Wednesday 2-5pm, Saturday 12-1pm",,,,,,
+301171423,7/10/2013 18:40:20,false,1005510747,,7/10/2013 18:36:59,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2907,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2907:Tuesday, Thursday, Saturday 11am-3pm",,,,,,
+301171423,7/10/2013 19:06:00,false,1005541935,,7/10/2013 19:04:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2907,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2907:Tuesday, Thursday, Saturday 11am-3pm",,,,,,
+301171424,7/10/2013 18:40:48,false,1005511192,,7/10/2013 18:39:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2908,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2908:Tuesday 1-4pm, Thursday 12-3pm",,,,,,
+301171424,7/10/2013 18:53:27,false,1005527161,,7/10/2013 18:52:40,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2908,,,,,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,"2908:Tuesday 1-4pm, Thursday 12-3pm",,,,,,
+301171425,7/10/2013 18:56:48,false,1005531086,,7/10/2013 18:49:56,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2909,,,lunchtime: 12 noon - 2pm,,,,,,,2909:Saturday 12-2pm,,,,,,
+301171425,7/10/2013 20:28:27,false,1005628890,,7/10/2013 20:26:33,false,amt,1.0,2456914,USA,FL,Englewood,96.254.133.140,2909,,,lunchtime: 12 noon - 2pm,,,,,,,2909:Saturday 12-2pm,,,,,,
+301171426,7/10/2013 19:02:11,false,1005537891,,7/10/2013 19:01:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2910,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,,dinnertime: 6pm onwards,,,2910:Monday and Friday 12-2pm Wednesday 6.30-8pm,,,,,,
+301171426,7/10/2013 19:09:47,false,1005546330,,7/10/2013 19:08:21,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2910,lunchtime: 12 noon - 2pm,lunchtime: 12 noon - 2pm,,,,,dinnertime: 6pm onwards,,,2910:Monday and Friday 12-2pm Wednesday 6.30-8pm,,,,,,
+301171427,7/10/2013 18:45:51,false,1005518030,,7/10/2013 18:44:50,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2911,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2911:Tuesday and Friday  11:00 - 14:00,,,,,,
+301171427,7/10/2013 18:49:51,false,1005522761,,7/10/2013 18:47:00,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2911,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2911:Tuesday and Friday  11:00 - 14:00,,,,,,
+301171428,7/10/2013 19:09:48,false,1005546331,,7/10/2013 19:08:21,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2912,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,2912:Thursday 10:00 - 12:30,,,,,,
+301171428,7/10/2013 19:16:43,false,1005553355,,7/10/2013 19:15:47,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2912,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,2912:Thursday 10:00 - 12:30,,,,,,
+301171429,7/10/2013 18:41:56,false,1005512674,,7/10/2013 18:40:52,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2914,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,,,,,2914:Friday 12.30-2.30pm,,,,,,
+301171429,7/10/2013 19:12:13,false,1005548576,,7/10/2013 19:11:12,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2914,"lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm",,,,,,,,,2914:Friday 12.30-2.30pm,,,,,,
+301171430,7/10/2013 18:46:38,false,1005519002,,7/10/2013 18:45:53,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2915,,,afternoon: 2pm - 6pm,,,,,,,2915:Saturday 2-4pm,,,,,,
+301171430,7/10/2013 19:08:36,false,1005544961,,7/10/2013 19:07:44,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2915,,,afternoon: 2pm - 6pm,,,,,,,2915:Saturday 2-4pm,,,,,,
+301171431,7/10/2013 19:13:13,false,1005549637,,7/10/2013 19:12:16,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2916,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2916:Monday-Friday 10.30am-1.30pm,,,,,,
+301171431,7/10/2013 19:32:46,false,1005570767,,7/10/2013 19:27:15,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2916,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,2916:Monday-Friday 10.30am-1.30pm,,,,,,
+301171432,7/10/2013 18:54:55,false,1005528897,,7/10/2013 18:53:33,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2917,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,2917:Monday and Friday 11am-1pm,,,,,,
+301171432,7/10/2013 19:16:02,false,1005552983,,7/10/2013 19:15:23,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2917,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,2917:Monday and Friday 11am-1pm,,,,,,
+301171433,7/10/2013 18:40:48,false,1005511188,,7/10/2013 18:39:16,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2918,,,,,,,lunchtime: 12 noon - 2pm,,,2918:Wednesday 12-2pm,,,,,,
+301171433,7/10/2013 19:21:00,false,1005557708,,7/10/2013 19:20:06,false,amt,0.9063,16378241,USA,IL,Chicago,108.233.0.38,2918,,,,,,,lunchtime: 12 noon - 2pm,,,2918:Wednesday 12-2pm,,,,,,
+301171434,7/10/2013 18:46:55,false,1005519459,,7/10/2013 18:45:21,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2919,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2919:Friday 11am-1pm,,,,,,
+301171434,7/10/2013 18:52:36,false,1005526036,,7/10/2013 18:51:57,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2919,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,,,,,2919:Friday 11am-1pm,,,,,,
+301171435,7/10/2013 18:41:33,false,1005512139,,7/10/2013 18:38:49,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2920,,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2920:Tuesday 11am-1pm,,,,,,
+301171435,7/10/2013 19:08:36,false,1005544965,,7/10/2013 19:07:44,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2920,,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2920:Tuesday 11am-1pm,,,,,,
+301171436,7/10/2013 19:07:40,false,1005544077,,7/10/2013 19:06:02,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2921,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2921:Monday, Wednesday Friday 10am-2pm",,,,,,
+301171436,7/10/2013 19:10:37,false,1005547215,,7/10/2013 19:09:47,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2921,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,"2921:Monday, Wednesday Friday 10am-2pm",,,,,,
+301171437,7/10/2013 18:43:33,false,1005514953,,7/10/2013 18:42:00,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2922,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2922:Tuesday 10am-2pm Thursday 10am-4pm,,,,,,
+301171437,7/10/2013 19:19:37,false,1005556256,,7/10/2013 19:18:54,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2922,,,,,"morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm
+afternoon: 2pm - 6pm","morning: 9am - 12 noon
+lunchtime: 12 noon - 2pm",,,,2922:Tuesday 10am-2pm Thursday 10am-4pm,,,,,,
+301171438,7/10/2013 18:52:01,false,1005525417,,7/10/2013 18:51:04,false,amt,0.9459,16150347,USA,CA,Oakland,108.200.233.214,2923,,dinnertime: 6pm onwards,,,,,,,,2923:Monday 6-7.30pm,,,,,,
+301171438,7/10/2013 19:09:48,false,1005546332,,7/10/2013 19:08:21,false,amt,0.8378,17014655,USA,SC,Charleston,208.60.95.35,2923,,dinnertime: 6pm onwards,,,,,,,,2923:Monday 6-7.30pm,,,,,,
